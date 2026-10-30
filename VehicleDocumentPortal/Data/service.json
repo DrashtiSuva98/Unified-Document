@@ -1,0 +1,2713 @@
+[
+  {
+    "registrationNumber": "MH12AB1234",
+    "nextService": "2027-01-05",
+    "nextServiceKm": 40000,
+    "records": [
+      {
+        "id": "JC-MH12-2025-10000",
+        "date": "2025-01-05",
+        "odometerKm": 10000,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Tata Service Pune",
+        "technician": "Ajay Patil",
+        "cost": 4500,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH12-2025-10001",
+        "date": "2025-09-05",
+        "odometerKm": 20000,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Tata Service Pune",
+        "technician": "Vikram Joshi",
+        "cost": 6500,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH12-2026-10002",
+        "date": "2026-07-05",
+        "odometerKm": 30000,
+        "type": "Annual service",
+        "center": "Unifield Tata Service Pune",
+        "technician": "Nikhil More",
+        "cost": 9000,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 40,000 km or 2027-01-05.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1235",
+    "nextService": "2027-02-06",
+    "nextServiceKm": 40100,
+    "records": [
+      {
+        "id": "JC-MH01-2025-10003",
+        "date": "2025-02-06",
+        "odometerKm": 10030,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Toyota Service Mumbai Central",
+        "technician": "Vikram Joshi",
+        "cost": 5969,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH01-2025-10004",
+        "date": "2025-10-06",
+        "odometerKm": 20080,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Toyota Service Mumbai Central",
+        "technician": "Nikhil More",
+        "cost": 8469,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH01-2026-10005",
+        "date": "2026-08-06",
+        "odometerKm": 30100,
+        "type": "Annual service",
+        "center": "Unifield Toyota Service Mumbai Central",
+        "technician": "Sagar Deshmukh",
+        "cost": 11594,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 40,100 km or 2027-02-06.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1236",
+    "nextService": "2027-03-07",
+    "nextServiceKm": 40200,
+    "records": [
+      {
+        "id": "JC-MH02-2025-10006",
+        "date": "2025-03-07",
+        "odometerKm": 10060,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Honda Service Mumbai West",
+        "technician": "Nikhil More",
+        "cost": 5050,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH02-2025-10007",
+        "date": "2025-11-07",
+        "odometerKm": 20160,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Honda Service Mumbai West",
+        "technician": "Sagar Deshmukh",
+        "cost": 7050,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH02-2026-10008",
+        "date": "2026-09-07",
+        "odometerKm": 30200,
+        "type": "Annual service",
+        "center": "Unifield Honda Service Mumbai West",
+        "technician": "Prasad Shinde",
+        "cost": 9550,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 40,200 km or 2027-03-07.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1237",
+    "nextService": "2027-01-08",
+    "nextServiceKm": 40300,
+    "records": [
+      {
+        "id": "JC-MH14-2025-10009",
+        "date": "2025-01-08",
+        "odometerKm": 10090,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Maruti Suzuki Service Pimpri-Chinchwad",
+        "technician": "Sagar Deshmukh",
+        "cost": 5325,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH14-2025-10010",
+        "date": "2025-09-08",
+        "odometerKm": 20240,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Maruti Suzuki Service Pimpri-Chinchwad",
+        "technician": "Prasad Shinde",
+        "cost": 7325,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH14-2026-10011",
+        "date": "2026-07-08",
+        "odometerKm": 30300,
+        "type": "Annual service",
+        "center": "Unifield Maruti Suzuki Service Pimpri-Chinchwad",
+        "technician": "Akshay Kulkarni",
+        "cost": 9825,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 40,300 km or 2027-01-08.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1238",
+    "nextService": "2027-02-09",
+    "nextServiceKm": 40400,
+    "records": [
+      {
+        "id": "JC-MH04-2025-10012",
+        "date": "2025-02-09",
+        "odometerKm": 10120,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Hyundai Service Thane",
+        "technician": "Prasad Shinde",
+        "cost": 5600,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH04-2025-10013",
+        "date": "2025-10-09",
+        "odometerKm": 20320,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Hyundai Service Thane",
+        "technician": "Akshay Kulkarni",
+        "cost": 7600,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH04-2026-10014",
+        "date": "2026-08-09",
+        "odometerKm": 30400,
+        "type": "Annual service",
+        "center": "Unifield Hyundai Service Thane",
+        "technician": "Ajay Patil",
+        "cost": 10100,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 40,400 km or 2027-02-09.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1239",
+    "nextService": "2027-03-10",
+    "nextServiceKm": 40500,
+    "records": [
+      {
+        "id": "JC-MH20-2025-10015",
+        "date": "2025-03-10",
+        "odometerKm": 10150,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Mahindra Service Chhatrapati Sambhajinagar",
+        "technician": "Akshay Kulkarni",
+        "cost": 7344,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH20-2025-10016",
+        "date": "2025-11-10",
+        "odometerKm": 20400,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Mahindra Service Chhatrapati Sambhajinagar",
+        "technician": "Ajay Patil",
+        "cost": 9844,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH20-2026-10017",
+        "date": "2026-09-10",
+        "odometerKm": 30500,
+        "type": "Annual service",
+        "center": "Unifield Mahindra Service Chhatrapati Sambhajinagar",
+        "technician": "Vikram Joshi",
+        "cost": 12969,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 40,500 km or 2027-03-10.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1240",
+    "nextService": "2027-01-11",
+    "nextServiceKm": 40600,
+    "records": [
+      {
+        "id": "JC-MH31-2025-10018",
+        "date": "2025-01-11",
+        "odometerKm": 10180,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Kia Service Nagpur",
+        "technician": "Ajay Patil",
+        "cost": 6150,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH31-2025-10019",
+        "date": "2025-09-11",
+        "odometerKm": 20480,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Kia Service Nagpur",
+        "technician": "Vikram Joshi",
+        "cost": 8150,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH31-2026-10020",
+        "date": "2026-07-11",
+        "odometerKm": 30600,
+        "type": "Annual service",
+        "center": "Unifield Kia Service Nagpur",
+        "technician": "Nikhil More",
+        "cost": 10650,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 40,600 km or 2027-01-11.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1241",
+    "nextService": "2027-02-12",
+    "nextServiceKm": 40700,
+    "records": [
+      {
+        "id": "JC-MH15-2025-10021",
+        "date": "2025-02-12",
+        "odometerKm": 10210,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Skoda Service Nashik",
+        "technician": "Vikram Joshi",
+        "cost": 4500,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH15-2025-10022",
+        "date": "2025-10-12",
+        "odometerKm": 20560,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Skoda Service Nashik",
+        "technician": "Nikhil More",
+        "cost": 6500,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH15-2026-10023",
+        "date": "2026-08-12",
+        "odometerKm": 30700,
+        "type": "Annual service",
+        "center": "Unifield Skoda Service Nashik",
+        "technician": "Sagar Deshmukh",
+        "cost": 9000,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 40,700 km or 2027-02-12.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1242",
+    "nextService": "2027-03-13",
+    "nextServiceKm": 40800,
+    "records": [
+      {
+        "id": "JC-MH09-2025-10024",
+        "date": "2025-03-13",
+        "odometerKm": 10240,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Volkswagen Service Kolhapur",
+        "technician": "Nikhil More",
+        "cost": 4775,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH09-2025-10025",
+        "date": "2025-11-13",
+        "odometerKm": 20640,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Volkswagen Service Kolhapur",
+        "technician": "Sagar Deshmukh",
+        "cost": 6775,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH09-2026-10026",
+        "date": "2026-09-13",
+        "odometerKm": 30800,
+        "type": "Annual service",
+        "center": "Unifield Volkswagen Service Kolhapur",
+        "technician": "Prasad Shinde",
+        "cost": 9275,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 40,800 km or 2027-03-13.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1243",
+    "nextService": "2027-01-14",
+    "nextServiceKm": 40900,
+    "records": [
+      {
+        "id": "JC-MH13-2025-10027",
+        "date": "2025-01-14",
+        "odometerKm": 10270,
+        "type": "Scheduled maintenance",
+        "center": "Unifield MG Service Solapur",
+        "technician": "Sagar Deshmukh",
+        "cost": 5050,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH13-2025-10028",
+        "date": "2025-09-14",
+        "odometerKm": 20720,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield MG Service Solapur",
+        "technician": "Prasad Shinde",
+        "cost": 7050,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH13-2026-10029",
+        "date": "2026-07-14",
+        "odometerKm": 30900,
+        "type": "Annual service",
+        "center": "Unifield MG Service Solapur",
+        "technician": "Akshay Kulkarni",
+        "cost": 9550,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 40,900 km or 2027-01-14.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1244",
+    "nextService": "2027-02-15",
+    "nextServiceKm": 41000,
+    "records": [
+      {
+        "id": "JC-MH12-2025-10030",
+        "date": "2025-02-15",
+        "odometerKm": 10300,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Renault Service Pune",
+        "technician": "Prasad Shinde",
+        "cost": 5325,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH12-2025-10031",
+        "date": "2025-10-15",
+        "odometerKm": 20800,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Renault Service Pune",
+        "technician": "Akshay Kulkarni",
+        "cost": 7325,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH12-2026-10032",
+        "date": "2026-08-15",
+        "odometerKm": 31000,
+        "type": "Annual service",
+        "center": "Unifield Renault Service Pune",
+        "technician": "Ajay Patil",
+        "cost": 9825,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 41,000 km or 2027-02-15.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1245",
+    "nextService": "2027-03-16",
+    "nextServiceKm": 41100,
+    "records": [
+      {
+        "id": "JC-MH01-2025-10033",
+        "date": "2025-03-16",
+        "odometerKm": 10330,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Nissan Service Mumbai Central",
+        "technician": "Akshay Kulkarni",
+        "cost": 5600,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH01-2025-10034",
+        "date": "2025-11-16",
+        "odometerKm": 20880,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Nissan Service Mumbai Central",
+        "technician": "Ajay Patil",
+        "cost": 7600,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH01-2026-10035",
+        "date": "2026-09-16",
+        "odometerKm": 31100,
+        "type": "Annual service",
+        "center": "Unifield Nissan Service Mumbai Central",
+        "technician": "Vikram Joshi",
+        "cost": 10100,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 41,100 km or 2027-03-16.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1246",
+    "nextService": "2027-01-17",
+    "nextServiceKm": 41200,
+    "records": [
+      {
+        "id": "JC-MH02-2025-10036",
+        "date": "2025-01-17",
+        "odometerKm": 10360,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Citroen Service Mumbai West",
+        "technician": "Ajay Patil",
+        "cost": 5875,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH02-2025-10037",
+        "date": "2025-09-17",
+        "odometerKm": 20960,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Citroen Service Mumbai West",
+        "technician": "Vikram Joshi",
+        "cost": 7875,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH02-2026-10038",
+        "date": "2026-07-17",
+        "odometerKm": 31200,
+        "type": "Annual service",
+        "center": "Unifield Citroen Service Mumbai West",
+        "technician": "Nikhil More",
+        "cost": 10375,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 41,200 km or 2027-01-17.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1247",
+    "nextService": "2027-02-18",
+    "nextServiceKm": 41300,
+    "records": [
+      {
+        "id": "JC-MH14-2025-10039",
+        "date": "2025-02-18",
+        "odometerKm": 10390,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Jeep Service Pimpri-Chinchwad",
+        "technician": "Vikram Joshi",
+        "cost": 7688,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH14-2025-10040",
+        "date": "2025-10-18",
+        "odometerKm": 21040,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Jeep Service Pimpri-Chinchwad",
+        "technician": "Nikhil More",
+        "cost": 10188,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH14-2026-10041",
+        "date": "2026-08-18",
+        "odometerKm": 31300,
+        "type": "Annual service",
+        "center": "Unifield Jeep Service Pimpri-Chinchwad",
+        "technician": "Sagar Deshmukh",
+        "cost": 13313,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 41,300 km or 2027-02-18.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1248",
+    "nextService": "2027-03-19",
+    "nextServiceKm": 41400,
+    "records": [
+      {
+        "id": "JC-MH04-2025-10042",
+        "date": "2025-03-19",
+        "odometerKm": 10420,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Hyundai Service Thane",
+        "technician": "Nikhil More",
+        "cost": 4500,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH04-2025-10043",
+        "date": "2025-11-19",
+        "odometerKm": 21120,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Hyundai Service Thane",
+        "technician": "Sagar Deshmukh",
+        "cost": 6500,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH04-2026-10044",
+        "date": "2026-09-19",
+        "odometerKm": 31400,
+        "type": "Annual service",
+        "center": "Unifield Hyundai Service Thane",
+        "technician": "Prasad Shinde",
+        "cost": 9000,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 41,400 km or 2027-03-19.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1249",
+    "nextService": "2027-01-20",
+    "nextServiceKm": 41500,
+    "records": [
+      {
+        "id": "JC-MH20-2025-10045",
+        "date": "2025-01-20",
+        "odometerKm": 10450,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Tata Service Chhatrapati Sambhajinagar",
+        "technician": "Sagar Deshmukh",
+        "cost": 4775,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH20-2025-10046",
+        "date": "2025-09-20",
+        "odometerKm": 21200,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Tata Service Chhatrapati Sambhajinagar",
+        "technician": "Prasad Shinde",
+        "cost": 6775,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH20-2026-10047",
+        "date": "2026-07-20",
+        "odometerKm": 31500,
+        "type": "Annual service",
+        "center": "Unifield Tata Service Chhatrapati Sambhajinagar",
+        "technician": "Akshay Kulkarni",
+        "cost": 9275,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 41,500 km or 2027-01-20.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1250",
+    "nextService": "2027-02-21",
+    "nextServiceKm": 41600,
+    "records": [
+      {
+        "id": "JC-MH31-2025-10048",
+        "date": "2025-02-21",
+        "odometerKm": 10480,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Tata Service Nagpur",
+        "technician": "Prasad Shinde",
+        "cost": 6313,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH31-2025-10049",
+        "date": "2025-10-21",
+        "odometerKm": 21280,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Tata Service Nagpur",
+        "technician": "Akshay Kulkarni",
+        "cost": 8813,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH31-2026-10050",
+        "date": "2026-08-21",
+        "odometerKm": 31600,
+        "type": "Annual service",
+        "center": "Unifield Tata Service Nagpur",
+        "technician": "Ajay Patil",
+        "cost": 11938,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 41,600 km or 2027-02-21.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1251",
+    "nextService": "2027-03-22",
+    "nextServiceKm": 41700,
+    "records": [
+      {
+        "id": "JC-MH15-2025-10051",
+        "date": "2025-03-22",
+        "odometerKm": 10510,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Tata Service Nashik",
+        "technician": "Akshay Kulkarni",
+        "cost": 6656,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH15-2025-10052",
+        "date": "2025-11-22",
+        "odometerKm": 21360,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Tata Service Nashik",
+        "technician": "Ajay Patil",
+        "cost": 9156,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH15-2026-10053",
+        "date": "2026-09-22",
+        "odometerKm": 31700,
+        "type": "Annual service",
+        "center": "Unifield Tata Service Nashik",
+        "technician": "Vikram Joshi",
+        "cost": 12281,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 41,700 km or 2027-03-22.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1252",
+    "nextService": "2027-01-23",
+    "nextServiceKm": 41800,
+    "records": [
+      {
+        "id": "JC-MH09-2025-10054",
+        "date": "2025-01-23",
+        "odometerKm": 10540,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Tata Service Kolhapur",
+        "technician": "Ajay Patil",
+        "cost": 5600,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Tires rotated",
+          "Brake fluid and cooling system inspected"
+        ]
+      },
+      {
+        "id": "JC-MH09-2025-10055",
+        "date": "2025-09-23",
+        "odometerKm": 21440,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Tata Service Kolhapur",
+        "technician": "Vikram Joshi",
+        "cost": 7600,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH09-2026-10056",
+        "date": "2026-07-23",
+        "odometerKm": 31800,
+        "type": "Annual service",
+        "center": "Unifield Tata Service Kolhapur",
+        "technician": "Nikhil More",
+        "cost": 10100,
+        "notes": "Traction battery health 98%. Charging test passed. No active diagnostic faults. Next inspection due at 41,800 km or 2027-01-23.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Cabin air filter replaced",
+          "12V battery health checked",
+          "Diagnostic scan completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1253",
+    "nextService": "2027-02-24",
+    "nextServiceKm": 41900,
+    "records": [
+      {
+        "id": "JC-MH13-2025-10057",
+        "date": "2025-02-24",
+        "odometerKm": 10570,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Tata Service Solapur",
+        "technician": "Vikram Joshi",
+        "cost": 5875,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Tires rotated",
+          "Brake fluid and cooling system inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH13-2025-10058",
+        "date": "2025-10-24",
+        "odometerKm": 21520,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Tata Service Solapur",
+        "technician": "Nikhil More",
+        "cost": 7875,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH13-2026-10059",
+        "date": "2026-08-24",
+        "odometerKm": 31900,
+        "type": "Annual service",
+        "center": "Unifield Tata Service Solapur",
+        "technician": "Sagar Deshmukh",
+        "cost": 10375,
+        "notes": "Traction battery health 99%. Charging test passed. No active diagnostic faults. Next inspection due at 41,900 km or 2027-02-24.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Cabin air filter replaced",
+          "12V battery health checked",
+          "Diagnostic scan completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1254",
+    "nextService": "2027-03-05",
+    "nextServiceKm": 42000,
+    "records": [
+      {
+        "id": "JC-MH12-2025-10060",
+        "date": "2025-03-05",
+        "odometerKm": 10600,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Toyota Service Pune",
+        "technician": "Nikhil More",
+        "cost": 11070,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH12-2025-10061",
+        "date": "2025-11-05",
+        "odometerKm": 21600,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Toyota Service Pune",
+        "technician": "Sagar Deshmukh",
+        "cost": 14670,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH12-2026-10062",
+        "date": "2026-09-05",
+        "odometerKm": 32000,
+        "type": "Annual service",
+        "center": "Unifield Toyota Service Pune",
+        "technician": "Prasad Shinde",
+        "cost": 19170,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 42,000 km or 2027-03-05.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1255",
+    "nextService": "2027-01-06",
+    "nextServiceKm": 42100,
+    "records": [
+      {
+        "id": "JC-MH01-2025-10063",
+        "date": "2025-01-06",
+        "odometerKm": 10630,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Toyota Service Mumbai Central",
+        "technician": "Sagar Deshmukh",
+        "cost": 4500,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH01-2025-10064",
+        "date": "2025-09-06",
+        "odometerKm": 21680,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Toyota Service Mumbai Central",
+        "technician": "Prasad Shinde",
+        "cost": 6500,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH01-2026-10065",
+        "date": "2026-07-06",
+        "odometerKm": 32100,
+        "type": "Annual service",
+        "center": "Unifield Toyota Service Mumbai Central",
+        "technician": "Akshay Kulkarni",
+        "cost": 9000,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 42,100 km or 2027-01-06.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1256",
+    "nextService": "2027-02-07",
+    "nextServiceKm": 42200,
+    "records": [
+      {
+        "id": "JC-MH02-2025-10066",
+        "date": "2025-02-07",
+        "odometerKm": 10660,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Toyota Service Mumbai West",
+        "technician": "Prasad Shinde",
+        "cost": 4775,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH02-2025-10067",
+        "date": "2025-10-07",
+        "odometerKm": 21760,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Toyota Service Mumbai West",
+        "technician": "Akshay Kulkarni",
+        "cost": 6775,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH02-2026-10068",
+        "date": "2026-08-07",
+        "odometerKm": 32200,
+        "type": "Annual service",
+        "center": "Unifield Toyota Service Mumbai West",
+        "technician": "Ajay Patil",
+        "cost": 9275,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 42,200 km or 2027-02-07.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1257",
+    "nextService": "2027-03-08",
+    "nextServiceKm": 42300,
+    "records": [
+      {
+        "id": "JC-MH14-2025-10069",
+        "date": "2025-03-08",
+        "odometerKm": 10690,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Toyota Service Pimpri-Chinchwad",
+        "technician": "Akshay Kulkarni",
+        "cost": 6313,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH14-2025-10070",
+        "date": "2025-11-08",
+        "odometerKm": 21840,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Toyota Service Pimpri-Chinchwad",
+        "technician": "Ajay Patil",
+        "cost": 8813,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH14-2026-10071",
+        "date": "2026-09-08",
+        "odometerKm": 32300,
+        "type": "Annual service",
+        "center": "Unifield Toyota Service Pimpri-Chinchwad",
+        "technician": "Vikram Joshi",
+        "cost": 11938,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 42,300 km or 2027-03-08.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1258",
+    "nextService": "2027-01-09",
+    "nextServiceKm": 42400,
+    "records": [
+      {
+        "id": "JC-MH04-2025-10072",
+        "date": "2025-01-09",
+        "odometerKm": 10720,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Honda Service Thane",
+        "technician": "Ajay Patil",
+        "cost": 5325,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH04-2025-10073",
+        "date": "2025-09-09",
+        "odometerKm": 21920,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Honda Service Thane",
+        "technician": "Vikram Joshi",
+        "cost": 7325,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH04-2026-10074",
+        "date": "2026-07-09",
+        "odometerKm": 32400,
+        "type": "Annual service",
+        "center": "Unifield Honda Service Thane",
+        "technician": "Nikhil More",
+        "cost": 9825,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 42,400 km or 2027-01-09.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1259",
+    "nextService": "2027-02-10",
+    "nextServiceKm": 42500,
+    "records": [
+      {
+        "id": "JC-MH20-2025-10075",
+        "date": "2025-02-10",
+        "odometerKm": 10750,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Honda Service Chhatrapati Sambhajinagar",
+        "technician": "Vikram Joshi",
+        "cost": 5600,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH20-2025-10076",
+        "date": "2025-10-10",
+        "odometerKm": 22000,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Honda Service Chhatrapati Sambhajinagar",
+        "technician": "Nikhil More",
+        "cost": 7600,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH20-2026-10077",
+        "date": "2026-08-10",
+        "odometerKm": 32500,
+        "type": "Annual service",
+        "center": "Unifield Honda Service Chhatrapati Sambhajinagar",
+        "technician": "Sagar Deshmukh",
+        "cost": 10100,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 42,500 km or 2027-02-10.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1260",
+    "nextService": "2027-03-11",
+    "nextServiceKm": 42600,
+    "records": [
+      {
+        "id": "JC-MH31-2025-10078",
+        "date": "2025-03-11",
+        "odometerKm": 10780,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Maruti Suzuki Service Nagpur",
+        "technician": "Nikhil More",
+        "cost": 5875,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH31-2025-10079",
+        "date": "2025-11-11",
+        "odometerKm": 22080,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Maruti Suzuki Service Nagpur",
+        "technician": "Sagar Deshmukh",
+        "cost": 7875,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH31-2026-10080",
+        "date": "2026-09-11",
+        "odometerKm": 32600,
+        "type": "Annual service",
+        "center": "Unifield Maruti Suzuki Service Nagpur",
+        "technician": "Prasad Shinde",
+        "cost": 10375,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 42,600 km or 2027-03-11.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1261",
+    "nextService": "2027-01-12",
+    "nextServiceKm": 42700,
+    "records": [
+      {
+        "id": "JC-MH15-2025-10081",
+        "date": "2025-01-12",
+        "odometerKm": 10810,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Maruti Suzuki Service Nashik",
+        "technician": "Sagar Deshmukh",
+        "cost": 6150,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH15-2025-10082",
+        "date": "2025-09-12",
+        "odometerKm": 22160,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Maruti Suzuki Service Nashik",
+        "technician": "Prasad Shinde",
+        "cost": 8150,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH15-2026-10083",
+        "date": "2026-07-12",
+        "odometerKm": 32700,
+        "type": "Annual service",
+        "center": "Unifield Maruti Suzuki Service Nashik",
+        "technician": "Akshay Kulkarni",
+        "cost": 10650,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 42,700 km or 2027-01-12.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1262",
+    "nextService": "2027-02-13",
+    "nextServiceKm": 42800,
+    "records": [
+      {
+        "id": "JC-MH09-2025-10084",
+        "date": "2025-02-13",
+        "odometerKm": 10840,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Maruti Suzuki Service Kolhapur",
+        "technician": "Prasad Shinde",
+        "cost": 4500,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH09-2025-10085",
+        "date": "2025-10-13",
+        "odometerKm": 22240,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Maruti Suzuki Service Kolhapur",
+        "technician": "Akshay Kulkarni",
+        "cost": 6500,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH09-2026-10086",
+        "date": "2026-08-13",
+        "odometerKm": 32800,
+        "type": "Annual service",
+        "center": "Unifield Maruti Suzuki Service Kolhapur",
+        "technician": "Ajay Patil",
+        "cost": 9000,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 42,800 km or 2027-02-13.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1263",
+    "nextService": "2027-03-14",
+    "nextServiceKm": 42900,
+    "records": [
+      {
+        "id": "JC-MH13-2025-10087",
+        "date": "2025-03-14",
+        "odometerKm": 10870,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Maruti Suzuki Service Solapur",
+        "technician": "Akshay Kulkarni",
+        "cost": 5969,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH13-2025-10088",
+        "date": "2025-11-14",
+        "odometerKm": 22320,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Maruti Suzuki Service Solapur",
+        "technician": "Ajay Patil",
+        "cost": 8469,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH13-2026-10089",
+        "date": "2026-09-14",
+        "odometerKm": 32900,
+        "type": "Annual service",
+        "center": "Unifield Maruti Suzuki Service Solapur",
+        "technician": "Vikram Joshi",
+        "cost": 11594,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 42,900 km or 2027-03-14.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1264",
+    "nextService": "2027-01-15",
+    "nextServiceKm": 43000,
+    "records": [
+      {
+        "id": "JC-MH12-2025-10090",
+        "date": "2025-01-15",
+        "odometerKm": 10900,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Maruti Suzuki Service Pune",
+        "technician": "Ajay Patil",
+        "cost": 5050,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH12-2025-10091",
+        "date": "2025-09-15",
+        "odometerKm": 22400,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Maruti Suzuki Service Pune",
+        "technician": "Vikram Joshi",
+        "cost": 7050,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH12-2026-10092",
+        "date": "2026-07-15",
+        "odometerKm": 33000,
+        "type": "Annual service",
+        "center": "Unifield Maruti Suzuki Service Pune",
+        "technician": "Nikhil More",
+        "cost": 9550,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 43,000 km or 2027-01-15.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1265",
+    "nextService": "2027-02-16",
+    "nextServiceKm": 43100,
+    "records": [
+      {
+        "id": "JC-MH01-2025-10093",
+        "date": "2025-02-16",
+        "odometerKm": 10930,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Hyundai Service Mumbai Central",
+        "technician": "Vikram Joshi",
+        "cost": 5325,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH01-2025-10094",
+        "date": "2025-10-16",
+        "odometerKm": 22480,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Hyundai Service Mumbai Central",
+        "technician": "Nikhil More",
+        "cost": 7325,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH01-2026-10095",
+        "date": "2026-08-16",
+        "odometerKm": 33100,
+        "type": "Annual service",
+        "center": "Unifield Hyundai Service Mumbai Central",
+        "technician": "Sagar Deshmukh",
+        "cost": 9825,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 43,100 km or 2027-02-16.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1266",
+    "nextService": "2027-03-17",
+    "nextServiceKm": 43200,
+    "records": [
+      {
+        "id": "JC-MH02-2025-10096",
+        "date": "2025-03-17",
+        "odometerKm": 10960,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Hyundai Service Mumbai West",
+        "technician": "Nikhil More",
+        "cost": 5600,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH02-2025-10097",
+        "date": "2025-11-17",
+        "odometerKm": 22560,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Hyundai Service Mumbai West",
+        "technician": "Sagar Deshmukh",
+        "cost": 7600,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH02-2026-10098",
+        "date": "2026-09-17",
+        "odometerKm": 33200,
+        "type": "Annual service",
+        "center": "Unifield Hyundai Service Mumbai West",
+        "technician": "Prasad Shinde",
+        "cost": 10100,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 43,200 km or 2027-03-17.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1267",
+    "nextService": "2027-01-18",
+    "nextServiceKm": 43300,
+    "records": [
+      {
+        "id": "JC-MH14-2025-10099",
+        "date": "2025-01-18",
+        "odometerKm": 10990,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Hyundai Service Pimpri-Chinchwad",
+        "technician": "Sagar Deshmukh",
+        "cost": 5875,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH14-2025-10100",
+        "date": "2025-09-18",
+        "odometerKm": 22640,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Hyundai Service Pimpri-Chinchwad",
+        "technician": "Prasad Shinde",
+        "cost": 7875,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH14-2026-10101",
+        "date": "2026-07-18",
+        "odometerKm": 33300,
+        "type": "Annual service",
+        "center": "Unifield Hyundai Service Pimpri-Chinchwad",
+        "technician": "Akshay Kulkarni",
+        "cost": 10375,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 43,300 km or 2027-01-18.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1268",
+    "nextService": "2027-02-19",
+    "nextServiceKm": 43400,
+    "records": [
+      {
+        "id": "JC-MH04-2025-10102",
+        "date": "2025-02-19",
+        "odometerKm": 11020,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Mahindra Service Thane",
+        "technician": "Prasad Shinde",
+        "cost": 7688,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH04-2025-10103",
+        "date": "2025-10-19",
+        "odometerKm": 22720,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Mahindra Service Thane",
+        "technician": "Akshay Kulkarni",
+        "cost": 10188,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH04-2026-10104",
+        "date": "2026-08-19",
+        "odometerKm": 33400,
+        "type": "Annual service",
+        "center": "Unifield Mahindra Service Thane",
+        "technician": "Ajay Patil",
+        "cost": 13313,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 43,400 km or 2027-02-19.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1269",
+    "nextService": "2027-03-20",
+    "nextServiceKm": 43500,
+    "records": [
+      {
+        "id": "JC-MH20-2025-10105",
+        "date": "2025-03-20",
+        "odometerKm": 11050,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Mahindra Service Chhatrapati Sambhajinagar",
+        "technician": "Akshay Kulkarni",
+        "cost": 4500,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH20-2025-10106",
+        "date": "2025-11-20",
+        "odometerKm": 22800,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Mahindra Service Chhatrapati Sambhajinagar",
+        "technician": "Ajay Patil",
+        "cost": 6500,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH20-2026-10107",
+        "date": "2026-09-20",
+        "odometerKm": 33500,
+        "type": "Annual service",
+        "center": "Unifield Mahindra Service Chhatrapati Sambhajinagar",
+        "technician": "Vikram Joshi",
+        "cost": 9000,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 43,500 km or 2027-03-20.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1270",
+    "nextService": "2027-01-21",
+    "nextServiceKm": 43600,
+    "records": [
+      {
+        "id": "JC-MH31-2025-10108",
+        "date": "2025-01-21",
+        "odometerKm": 11080,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Mahindra Service Nagpur",
+        "technician": "Ajay Patil",
+        "cost": 4775,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH31-2025-10109",
+        "date": "2025-09-21",
+        "odometerKm": 22880,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Mahindra Service Nagpur",
+        "technician": "Vikram Joshi",
+        "cost": 6775,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH31-2026-10110",
+        "date": "2026-07-21",
+        "odometerKm": 33600,
+        "type": "Annual service",
+        "center": "Unifield Mahindra Service Nagpur",
+        "technician": "Nikhil More",
+        "cost": 9275,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 43,600 km or 2027-01-21.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1271",
+    "nextService": "2027-02-22",
+    "nextServiceKm": 43700,
+    "records": [
+      {
+        "id": "JC-MH15-2025-10111",
+        "date": "2025-02-22",
+        "odometerKm": 11110,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Kia Service Nashik",
+        "technician": "Vikram Joshi",
+        "cost": 5050,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH15-2025-10112",
+        "date": "2025-10-22",
+        "odometerKm": 22960,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Kia Service Nashik",
+        "technician": "Nikhil More",
+        "cost": 7050,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH15-2026-10113",
+        "date": "2026-08-22",
+        "odometerKm": 33700,
+        "type": "Annual service",
+        "center": "Unifield Kia Service Nashik",
+        "technician": "Sagar Deshmukh",
+        "cost": 9550,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 43,700 km or 2027-02-22.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1272",
+    "nextService": "2027-03-23",
+    "nextServiceKm": 43800,
+    "records": [
+      {
+        "id": "JC-MH09-2025-10114",
+        "date": "2025-03-23",
+        "odometerKm": 11140,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Kia Service Kolhapur",
+        "technician": "Nikhil More",
+        "cost": 5325,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH09-2025-10115",
+        "date": "2025-11-23",
+        "odometerKm": 23040,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Kia Service Kolhapur",
+        "technician": "Sagar Deshmukh",
+        "cost": 7325,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH09-2026-10116",
+        "date": "2026-09-23",
+        "odometerKm": 33800,
+        "type": "Annual service",
+        "center": "Unifield Kia Service Kolhapur",
+        "technician": "Prasad Shinde",
+        "cost": 9825,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 43,800 km or 2027-03-23.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1273",
+    "nextService": "2027-01-24",
+    "nextServiceKm": 43900,
+    "records": [
+      {
+        "id": "JC-MH13-2025-10117",
+        "date": "2025-01-24",
+        "odometerKm": 11170,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Skoda Service Solapur",
+        "technician": "Sagar Deshmukh",
+        "cost": 5600,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH13-2025-10118",
+        "date": "2025-09-24",
+        "odometerKm": 23120,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Skoda Service Solapur",
+        "technician": "Prasad Shinde",
+        "cost": 7600,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH13-2026-10119",
+        "date": "2026-07-24",
+        "odometerKm": 33900,
+        "type": "Annual service",
+        "center": "Unifield Skoda Service Solapur",
+        "technician": "Akshay Kulkarni",
+        "cost": 10100,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 43,900 km or 2027-01-24.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1274",
+    "nextService": "2027-02-05",
+    "nextServiceKm": 44000,
+    "records": [
+      {
+        "id": "JC-MH12-2025-10120",
+        "date": "2025-02-05",
+        "odometerKm": 11200,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Volkswagen Service Pune",
+        "technician": "Prasad Shinde",
+        "cost": 5875,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH12-2025-10121",
+        "date": "2025-10-05",
+        "odometerKm": 23200,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Volkswagen Service Pune",
+        "technician": "Akshay Kulkarni",
+        "cost": 7875,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH12-2026-10122",
+        "date": "2026-08-05",
+        "odometerKm": 34000,
+        "type": "Annual service",
+        "center": "Unifield Volkswagen Service Pune",
+        "technician": "Ajay Patil",
+        "cost": 10375,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 44,000 km or 2027-02-05.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1275",
+    "nextService": "2027-03-06",
+    "nextServiceKm": 44100,
+    "records": [
+      {
+        "id": "JC-MH01-2025-10123",
+        "date": "2025-03-06",
+        "odometerKm": 11230,
+        "type": "Scheduled maintenance",
+        "center": "Unifield MG Service Mumbai Central",
+        "technician": "Akshay Kulkarni",
+        "cost": 6150,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Tires rotated",
+          "Brake fluid and cooling system inspected"
+        ]
+      },
+      {
+        "id": "JC-MH01-2025-10124",
+        "date": "2025-11-06",
+        "odometerKm": 23280,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield MG Service Mumbai Central",
+        "technician": "Ajay Patil",
+        "cost": 8150,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH01-2026-10125",
+        "date": "2026-09-06",
+        "odometerKm": 34100,
+        "type": "Annual service",
+        "center": "Unifield MG Service Mumbai Central",
+        "technician": "Vikram Joshi",
+        "cost": 10650,
+        "notes": "Traction battery health 97%. Charging test passed. No active diagnostic faults. Next inspection due at 44,100 km or 2027-03-06.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Cabin air filter replaced",
+          "12V battery health checked",
+          "Diagnostic scan completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1276",
+    "nextService": "2027-01-07",
+    "nextServiceKm": 44200,
+    "records": [
+      {
+        "id": "JC-MH02-2025-10126",
+        "date": "2025-01-07",
+        "odometerKm": 11260,
+        "type": "Scheduled maintenance",
+        "center": "Unifield MG Service Mumbai West",
+        "technician": "Ajay Patil",
+        "cost": 5625,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Tires rotated",
+          "Brake fluid and cooling system inspected"
+        ]
+      },
+      {
+        "id": "JC-MH02-2025-10127",
+        "date": "2025-09-07",
+        "odometerKm": 23360,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield MG Service Mumbai West",
+        "technician": "Vikram Joshi",
+        "cost": 8125,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH02-2026-10128",
+        "date": "2026-07-07",
+        "odometerKm": 34200,
+        "type": "Annual service",
+        "center": "Unifield MG Service Mumbai West",
+        "technician": "Nikhil More",
+        "cost": 11250,
+        "notes": "Traction battery health 98%. Charging test passed. No active diagnostic faults. Next inspection due at 44,200 km or 2027-01-07.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Cabin air filter replaced",
+          "12V battery health checked",
+          "Diagnostic scan completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1277",
+    "nextService": "2027-02-08",
+    "nextServiceKm": 44300,
+    "records": [
+      {
+        "id": "JC-MH14-2025-10129",
+        "date": "2025-02-08",
+        "odometerKm": 11290,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Renault Service Pimpri-Chinchwad",
+        "technician": "Vikram Joshi",
+        "cost": 4775,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH14-2025-10130",
+        "date": "2025-10-08",
+        "odometerKm": 23440,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Renault Service Pimpri-Chinchwad",
+        "technician": "Nikhil More",
+        "cost": 6775,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH14-2026-10131",
+        "date": "2026-08-08",
+        "odometerKm": 34300,
+        "type": "Annual service",
+        "center": "Unifield Renault Service Pimpri-Chinchwad",
+        "technician": "Sagar Deshmukh",
+        "cost": 9275,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 44,300 km or 2027-02-08.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1278",
+    "nextService": "2027-03-09",
+    "nextServiceKm": 44400,
+    "records": [
+      {
+        "id": "JC-MH04-2025-10132",
+        "date": "2025-03-09",
+        "odometerKm": 11320,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Citroen Service Thane",
+        "technician": "Nikhil More",
+        "cost": 5050,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Tires rotated",
+          "Brake fluid and cooling system inspected"
+        ]
+      },
+      {
+        "id": "JC-MH04-2025-10133",
+        "date": "2025-11-09",
+        "odometerKm": 23520,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Citroen Service Thane",
+        "technician": "Sagar Deshmukh",
+        "cost": 7050,
+        "notes": "Front brake pads measured 8 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH04-2026-10134",
+        "date": "2026-09-09",
+        "odometerKm": 34400,
+        "type": "Annual service",
+        "center": "Unifield Citroen Service Thane",
+        "technician": "Prasad Shinde",
+        "cost": 9550,
+        "notes": "Traction battery health 96%. Charging test passed. No active diagnostic faults. Next inspection due at 44,400 km or 2027-03-09.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Cabin air filter replaced",
+          "12V battery health checked",
+          "Diagnostic scan completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1279",
+    "nextService": "2027-01-10",
+    "nextServiceKm": 44500,
+    "records": [
+      {
+        "id": "JC-MH20-2025-10135",
+        "date": "2025-01-10",
+        "odometerKm": 11350,
+        "type": "Scheduled maintenance",
+        "center": "Unifield BMW Service Chhatrapati Sambhajinagar",
+        "technician": "Sagar Deshmukh",
+        "cost": 9585,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH20-2025-10136",
+        "date": "2025-09-10",
+        "odometerKm": 23600,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield BMW Service Chhatrapati Sambhajinagar",
+        "technician": "Prasad Shinde",
+        "cost": 13185,
+        "notes": "Front brake pads measured 6 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH20-2026-10137",
+        "date": "2026-07-10",
+        "odometerKm": 34500,
+        "type": "Annual service",
+        "center": "Unifield BMW Service Chhatrapati Sambhajinagar",
+        "technician": "Akshay Kulkarni",
+        "cost": 17685,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 44,500 km or 2027-01-10.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1280",
+    "nextService": "2027-02-11",
+    "nextServiceKm": 44600,
+    "records": [
+      {
+        "id": "JC-MH31-2025-10138",
+        "date": "2025-02-11",
+        "odometerKm": 11380,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Mercedes-Benz Service Nagpur",
+        "technician": "Prasad Shinde",
+        "cost": 10080,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH31-2025-10139",
+        "date": "2025-10-11",
+        "odometerKm": 23680,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Mercedes-Benz Service Nagpur",
+        "technician": "Akshay Kulkarni",
+        "cost": 13680,
+        "notes": "Front brake pads measured 7 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH31-2026-10140",
+        "date": "2026-08-11",
+        "odometerKm": 34600,
+        "type": "Annual service",
+        "center": "Unifield Mercedes-Benz Service Nagpur",
+        "technician": "Ajay Patil",
+        "cost": 18180,
+        "notes": "No active diagnostic faults. Air filter inspected and cleaned. Next maintenance due at 44,600 km or 2027-02-11.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Air filter cleaned"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1281",
+    "nextService": "2027-03-12",
+    "nextServiceKm": 44700,
+    "records": [
+      {
+        "id": "JC-MH15-2025-10141",
+        "date": "2025-03-12",
+        "odometerKm": 11410,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Audi Service Nashik",
+        "technician": "Akshay Kulkarni",
+        "cost": 10575,
+        "notes": "Customer concern: tyre pressure warning. Tyre pressures corrected and warning reset. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH15-2025-10142",
+        "date": "2025-11-12",
+        "odometerKm": 23760,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Audi Service Nashik",
+        "technician": "Ajay Patil",
+        "cost": 14175,
+        "notes": "Front brake pads measured 8 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH15-2026-10143",
+        "date": "2026-09-12",
+        "odometerKm": 34700,
+        "type": "Annual service",
+        "center": "Unifield Audi Service Nashik",
+        "technician": "Vikram Joshi",
+        "cost": 18675,
+        "notes": "No active diagnostic faults. Coolant level corrected and leak check completed. Next maintenance due at 44,700 km or 2027-03-12.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Coolant topped up and leak check completed"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1282",
+    "nextService": "2027-01-13",
+    "nextServiceKm": 44800,
+    "records": [
+      {
+        "id": "JC-MH09-2025-10144",
+        "date": "2025-01-13",
+        "odometerKm": 11440,
+        "type": "Scheduled maintenance",
+        "center": "Unifield Volvo Service Kolhapur",
+        "technician": "Ajay Patil",
+        "cost": 11070,
+        "notes": "Customer concern: routine maintenance due. Road test completed; no abnormal noise or vibration. Job card closed after quality inspection.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Tires rotated",
+          "Fluids and brakes inspected"
+        ]
+      },
+      {
+        "id": "JC-MH09-2025-10145",
+        "date": "2025-09-13",
+        "odometerKm": 23840,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield Volvo Service Kolhapur",
+        "technician": "Vikram Joshi",
+        "cost": 14670,
+        "notes": "Front brake pads measured 6 mm; rear pads 7 mm. Alignment corrected and vehicle road-tested. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Four-wheel alignment corrected",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH09-2026-10146",
+        "date": "2026-07-13",
+        "odometerKm": 34800,
+        "type": "Annual service",
+        "center": "Unifield Volvo Service Kolhapur",
+        "technician": "Nikhil More",
+        "cost": 19170,
+        "notes": "No active diagnostic faults. Wiper blades replaced after customer approval. Next maintenance due at 44,800 km or 2027-01-13.",
+        "work": [
+          "Engine oil and filter replaced",
+          "Cabin air filter replaced",
+          "Battery health checked",
+          "Diagnostic scan completed",
+          "Wiper blades replaced"
+        ]
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1283",
+    "nextService": "2027-02-14",
+    "nextServiceKm": 44900,
+    "records": [
+      {
+        "id": "JC-MH13-2025-10147",
+        "date": "2025-02-14",
+        "odometerKm": 11470,
+        "type": "Scheduled maintenance",
+        "center": "Unifield BYD Service Solapur",
+        "technician": "Vikram Joshi",
+        "cost": 5625,
+        "notes": "Customer concern: minor steering vibration at highway speed. Wheel balancing completed; steering vibration resolved. Job card closed after quality inspection.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Tires rotated",
+          "Brake fluid and cooling system inspected",
+          "Wheel balancing completed"
+        ]
+      },
+      {
+        "id": "JC-MH13-2025-10148",
+        "date": "2025-10-14",
+        "odometerKm": 23920,
+        "type": "Brake inspection & tire care",
+        "center": "Unifield BYD Service Solapur",
+        "technician": "Nikhil More",
+        "cost": 8125,
+        "notes": "Front brake pads measured 7 mm; rear pads 8 mm. Alignment within specification; no correction required. Customer advised to inspect tyres at the next visit.",
+        "work": [
+          "Brake system inspected",
+          "Wheel alignment checked",
+          "Tire pressures adjusted"
+        ]
+      },
+      {
+        "id": "JC-MH13-2026-10149",
+        "date": "2026-08-14",
+        "odometerKm": 34900,
+        "type": "Annual service",
+        "center": "Unifield BYD Service Solapur",
+        "technician": "Sagar Deshmukh",
+        "cost": 11250,
+        "notes": "Traction battery health 97%. Charging test passed. No active diagnostic faults. Next inspection due at 44,900 km or 2027-02-14.",
+        "work": [
+          "Traction battery and charging system inspected",
+          "Cabin air filter replaced",
+          "12V battery health checked",
+          "Diagnostic scan completed"
+        ]
+      }
+    ]
+  }
+]

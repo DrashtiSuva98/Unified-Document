@@ -1,0 +1,1652 @@
+[
+  {
+    "registrationNumber": "MH12AB1234",
+    "make": "Tata",
+    "model": "Nexon",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "White",
+    "owner": "Aarav Patil",
+    "dealer": "Unifield Tata Sales Pune",
+    "saleDate": "2024-01-03",
+    "price": 1250000,
+    "warranty": "Warranty agreement WAR-3001: coverage through 2027-01-03 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1001",
+        "date": "2024-01-03",
+        "content": "Invoice INV-2024-1001 | 2024-01-03\nSeller: Unifield Tata Sales Pune. Buyer: Aarav Patil.\nVehicle: Tata Nexon (Petrol), White. Registration: MH12AB1234.\nVehicle price: INR 12,50,000.00. Registration charges: INR 32,000.00. Insurance: INR 24,000.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 12,96,000.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Pune, 2024-01-03."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2001",
+        "date": "2024-01-03",
+        "content": "Ownership file OWN-2001\nRegistered keeper: Aarav Patil. Registration: MH12AB1234. Vehicle: Tata Nexon, Petrol, model year 2024.\nRegistering office: Pune (MH12). Purchase and delivery date: 2024-01-03. Selling dealership: Unifield Tata Sales Pune. Ownership sequence: first owner. Invoice reference: INV-2024-1001."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3001",
+        "date": "2024-01-03",
+        "content": "Vehicle: Tata Nexon, registration MH12AB1234. Warranty agreement WAR-3001: coverage through 2027-01-03 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1235",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sneha Patil",
+    "dealer": "Unifield Toyota Sales Mumbai Central",
+    "saleDate": "2024-02-04",
+    "price": 2450000,
+    "warranty": "Warranty agreement WAR-3002: coverage through 2027-02-04 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1002",
+        "date": "2024-02-04",
+        "content": "Invoice INV-2024-1002 | 2024-02-04\nSeller: Unifield Toyota Sales Mumbai Central. Buyer: Sneha Patil.\nVehicle: Toyota Innova Crysta (Diesel), Grey. Registration: MH01AB1235.\nVehicle price: INR 24,50,000.00. Registration charges: INR 33,100.00. Insurance: INR 24,850.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 25,01,450.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Mumbai Central, 2024-02-04."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2002",
+        "date": "2024-02-04",
+        "content": "Ownership file OWN-2002\nRegistered keeper: Sneha Patil. Registration: MH01AB1235. Vehicle: Toyota Innova Crysta, Diesel, model year 2024.\nRegistering office: Mumbai Central (MH01). Purchase and delivery date: 2024-02-04. Selling dealership: Unifield Toyota Sales Mumbai Central. Ownership sequence: first owner. Invoice reference: INV-2024-1002."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3002",
+        "date": "2024-02-04",
+        "content": "Vehicle: Toyota Innova Crysta, registration MH01AB1235. Warranty agreement WAR-3002: coverage through 2027-02-04 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1236",
+    "make": "Honda",
+    "model": "City",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Rohan Patil",
+    "dealer": "Unifield Honda Sales Mumbai West",
+    "saleDate": "2024-03-05",
+    "price": 1450000,
+    "warranty": "Warranty agreement WAR-3003: coverage through 2027-03-05 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1003",
+        "date": "2024-03-05",
+        "content": "Invoice INV-2024-1003 | 2024-03-05\nSeller: Unifield Honda Sales Mumbai West. Buyer: Rohan Patil.\nVehicle: Honda City (Petrol), Black. Registration: MH02AB1236.\nVehicle price: INR 14,50,000.00. Registration charges: INR 34,200.00. Insurance: INR 25,700.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 14,97,400.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Mumbai West, 2024-03-05."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2003",
+        "date": "2024-03-05",
+        "content": "Ownership file OWN-2003\nRegistered keeper: Rohan Patil. Registration: MH02AB1236. Vehicle: Honda City, Petrol, model year 2024.\nRegistering office: Mumbai West (MH02). Purchase and delivery date: 2024-03-05. Selling dealership: Unifield Honda Sales Mumbai West. Ownership sequence: first owner. Invoice reference: INV-2024-1003."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3003",
+        "date": "2024-03-05",
+        "content": "Vehicle: Honda City, registration MH02AB1236. Warranty agreement WAR-3003: coverage through 2027-03-05 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1237",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Priya Patil",
+    "dealer": "Unifield Maruti Suzuki Sales Pimpri-Chinchwad",
+    "saleDate": "2024-04-06",
+    "price": 850000,
+    "warranty": "Warranty agreement WAR-3004: coverage through 2027-04-06 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1004",
+        "date": "2024-04-06",
+        "content": "Invoice INV-2024-1004 | 2024-04-06\nSeller: Unifield Maruti Suzuki Sales Pimpri-Chinchwad. Buyer: Priya Patil.\nVehicle: Maruti Suzuki Swift (Petrol), Red. Registration: MH14AB1237.\nVehicle price: INR 8,50,000.00. Registration charges: INR 35,300.00. Insurance: INR 26,550.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 9,29,850.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Pimpri-Chinchwad, 2024-04-06."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2004",
+        "date": "2024-04-06",
+        "content": "Ownership file OWN-2004\nRegistered keeper: Priya Patil. Registration: MH14AB1237. Vehicle: Maruti Suzuki Swift, Petrol, model year 2024.\nRegistering office: Pimpri-Chinchwad (MH14). Purchase and delivery date: 2024-04-06. Selling dealership: Unifield Maruti Suzuki Sales Pimpri-Chinchwad. Ownership sequence: first owner. Invoice reference: INV-2024-1004."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3004",
+        "date": "2024-04-06",
+        "content": "Vehicle: Maruti Suzuki Swift, registration MH14AB1237. Warranty agreement WAR-3004: coverage through 2027-04-06 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1238",
+    "make": "Hyundai",
+    "model": "Creta",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Aditya Patil",
+    "dealer": "Unifield Hyundai Sales Thane",
+    "saleDate": "2024-05-07",
+    "price": 1650000,
+    "warranty": "Warranty agreement WAR-3005: coverage through 2027-05-07 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1005",
+        "date": "2024-05-07",
+        "content": "Invoice INV-2024-1005 | 2024-05-07\nSeller: Unifield Hyundai Sales Thane. Buyer: Aditya Patil.\nVehicle: Hyundai Creta (Diesel), Silver. Registration: MH04AB1238.\nVehicle price: INR 16,50,000.00. Registration charges: INR 36,400.00. Insurance: INR 27,400.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 17,03,800.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Thane, 2024-05-07."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2005",
+        "date": "2024-05-07",
+        "content": "Ownership file OWN-2005\nRegistered keeper: Aditya Patil. Registration: MH04AB1238. Vehicle: Hyundai Creta, Diesel, model year 2024.\nRegistering office: Thane (MH04). Purchase and delivery date: 2024-05-07. Selling dealership: Unifield Hyundai Sales Thane. Ownership sequence: first owner. Invoice reference: INV-2024-1005."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3005",
+        "date": "2024-05-07",
+        "content": "Vehicle: Hyundai Creta, registration MH04AB1238. Warranty agreement WAR-3005: coverage through 2027-05-07 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1239",
+    "make": "Mahindra",
+    "model": "Scorpio N",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "White",
+    "owner": "Neha Patil",
+    "dealer": "Unifield Mahindra Sales Chhatrapati Sambhajinagar",
+    "saleDate": "2024-06-08",
+    "price": 2100000,
+    "warranty": "Warranty agreement WAR-3006: coverage through 2027-06-08 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1006",
+        "date": "2024-06-08",
+        "content": "Invoice INV-2024-1006 | 2024-06-08\nSeller: Unifield Mahindra Sales Chhatrapati Sambhajinagar. Buyer: Neha Patil.\nVehicle: Mahindra Scorpio N (Diesel), White. Registration: MH20AB1239.\nVehicle price: INR 21,00,000.00. Registration charges: INR 37,500.00. Insurance: INR 28,250.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 21,59,250.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Chhatrapati Sambhajinagar, 2024-06-08."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2006",
+        "date": "2024-06-08",
+        "content": "Ownership file OWN-2006\nRegistered keeper: Neha Patil. Registration: MH20AB1239. Vehicle: Mahindra Scorpio N, Diesel, model year 2024.\nRegistering office: Chhatrapati Sambhajinagar (MH20). Purchase and delivery date: 2024-06-08. Selling dealership: Unifield Mahindra Sales Chhatrapati Sambhajinagar. Ownership sequence: first owner. Invoice reference: INV-2024-1006."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3006",
+        "date": "2024-06-08",
+        "content": "Vehicle: Mahindra Scorpio N, registration MH20AB1239. Warranty agreement WAR-3006: coverage through 2027-06-08 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1240",
+    "make": "Kia",
+    "model": "Seltos",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sahil Patil",
+    "dealer": "Unifield Kia Sales Nagpur",
+    "saleDate": "2024-07-09",
+    "price": 1700000,
+    "warranty": "Warranty agreement WAR-3007: coverage through 2027-07-09 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1007",
+        "date": "2024-07-09",
+        "content": "Invoice INV-2024-1007 | 2024-07-09\nSeller: Unifield Kia Sales Nagpur. Buyer: Sahil Patil.\nVehicle: Kia Seltos (Petrol), Grey. Registration: MH31AB1240.\nVehicle price: INR 17,00,000.00. Registration charges: INR 38,600.00. Insurance: INR 29,100.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 17,55,200.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Nagpur, 2024-07-09."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2007",
+        "date": "2024-07-09",
+        "content": "Ownership file OWN-2007\nRegistered keeper: Sahil Patil. Registration: MH31AB1240. Vehicle: Kia Seltos, Petrol, model year 2024.\nRegistering office: Nagpur (MH31). Purchase and delivery date: 2024-07-09. Selling dealership: Unifield Kia Sales Nagpur. Ownership sequence: first owner. Invoice reference: INV-2024-1007."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3007",
+        "date": "2024-07-09",
+        "content": "Vehicle: Kia Seltos, registration MH31AB1240. Warranty agreement WAR-3007: coverage through 2027-07-09 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1241",
+    "make": "Skoda",
+    "model": "Slavia",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Ananya Patil",
+    "dealer": "Unifield Skoda Sales Nashik",
+    "saleDate": "2024-08-10",
+    "price": 1550000,
+    "warranty": "Warranty agreement WAR-3008: coverage through 2027-08-10 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1008",
+        "date": "2024-08-10",
+        "content": "Invoice INV-2024-1008 | 2024-08-10\nSeller: Unifield Skoda Sales Nashik. Buyer: Ananya Patil.\nVehicle: Skoda Slavia (Petrol), Black. Registration: MH15AB1241.\nVehicle price: INR 15,50,000.00. Registration charges: INR 39,700.00. Insurance: INR 29,950.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 16,37,650.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Nashik, 2024-08-10."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2008",
+        "date": "2024-08-10",
+        "content": "Ownership file OWN-2008\nRegistered keeper: Ananya Patil. Registration: MH15AB1241. Vehicle: Skoda Slavia, Petrol, model year 2024.\nRegistering office: Nashik (MH15). Purchase and delivery date: 2024-08-10. Selling dealership: Unifield Skoda Sales Nashik. Ownership sequence: first owner. Invoice reference: INV-2024-1008."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3008",
+        "date": "2024-08-10",
+        "content": "Vehicle: Skoda Slavia, registration MH15AB1241. Warranty agreement WAR-3008: coverage through 2027-08-10 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1242",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Omkar Patil",
+    "dealer": "Unifield Volkswagen Sales Kolhapur",
+    "saleDate": "2024-09-11",
+    "price": 1600000,
+    "warranty": "Warranty agreement WAR-3009: coverage through 2027-09-11 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1009",
+        "date": "2024-09-11",
+        "content": "Invoice INV-2024-1009 | 2024-09-11\nSeller: Unifield Volkswagen Sales Kolhapur. Buyer: Omkar Patil.\nVehicle: Volkswagen Virtus (Petrol), Red. Registration: MH09AB1242.\nVehicle price: INR 16,00,000.00. Registration charges: INR 40,800.00. Insurance: INR 30,800.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 16,61,600.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Kolhapur, 2024-09-11."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2009",
+        "date": "2024-09-11",
+        "content": "Ownership file OWN-2009\nRegistered keeper: Omkar Patil. Registration: MH09AB1242. Vehicle: Volkswagen Virtus, Petrol, model year 2024.\nRegistering office: Kolhapur (MH09). Purchase and delivery date: 2024-09-11. Selling dealership: Unifield Volkswagen Sales Kolhapur. Ownership sequence: first owner. Invoice reference: INV-2024-1009."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3009",
+        "date": "2024-09-11",
+        "content": "Vehicle: Volkswagen Virtus, registration MH09AB1242. Warranty agreement WAR-3009: coverage through 2027-09-11 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1243",
+    "make": "MG",
+    "model": "Hector",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Riya Patil",
+    "dealer": "Unifield MG Sales Solapur",
+    "saleDate": "2024-01-12",
+    "price": 1950000,
+    "warranty": "Warranty agreement WAR-3010: coverage through 2027-01-12 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1010",
+        "date": "2024-01-12",
+        "content": "Invoice INV-2024-1010 | 2024-01-12\nSeller: Unifield MG Sales Solapur. Buyer: Riya Patil.\nVehicle: MG Hector (Petrol), Silver. Registration: MH13AB1243.\nVehicle price: INR 19,50,000.00. Registration charges: INR 41,900.00. Insurance: INR 31,650.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 20,17,050.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Solapur, 2024-01-12."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2010",
+        "date": "2024-01-12",
+        "content": "Ownership file OWN-2010\nRegistered keeper: Riya Patil. Registration: MH13AB1243. Vehicle: MG Hector, Petrol, model year 2024.\nRegistering office: Solapur (MH13). Purchase and delivery date: 2024-01-12. Selling dealership: Unifield MG Sales Solapur. Ownership sequence: first owner. Invoice reference: INV-2024-1010."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3010",
+        "date": "2024-01-12",
+        "content": "Vehicle: MG Hector, registration MH13AB1243. Warranty agreement WAR-3010: coverage through 2027-01-12 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1244",
+    "make": "Renault",
+    "model": "Kiger",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "White",
+    "owner": "Aarav Deshmukh",
+    "dealer": "Unifield Renault Sales Pune",
+    "saleDate": "2024-02-13",
+    "price": 950000,
+    "warranty": "Warranty agreement WAR-3011: coverage through 2027-02-13 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1011",
+        "date": "2024-02-13",
+        "content": "Invoice INV-2024-1011 | 2024-02-13\nSeller: Unifield Renault Sales Pune. Buyer: Aarav Deshmukh.\nVehicle: Renault Kiger (Petrol), White. Registration: MH12AB1244.\nVehicle price: INR 9,50,000.00. Registration charges: INR 43,000.00. Insurance: INR 32,500.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 10,13,000.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Pune, 2024-02-13."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2011",
+        "date": "2024-02-13",
+        "content": "Ownership file OWN-2011\nRegistered keeper: Aarav Deshmukh. Registration: MH12AB1244. Vehicle: Renault Kiger, Petrol, model year 2024.\nRegistering office: Pune (MH12). Purchase and delivery date: 2024-02-13. Selling dealership: Unifield Renault Sales Pune. Ownership sequence: first owner. Invoice reference: INV-2024-1011."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3011",
+        "date": "2024-02-13",
+        "content": "Vehicle: Renault Kiger, registration MH12AB1244. Warranty agreement WAR-3011: coverage through 2027-02-13 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1245",
+    "make": "Nissan",
+    "model": "Magnite",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sneha Deshmukh",
+    "dealer": "Unifield Nissan Sales Mumbai Central",
+    "saleDate": "2024-03-14",
+    "price": 900000,
+    "warranty": "Warranty agreement WAR-3012: coverage through 2027-03-14 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1012",
+        "date": "2024-03-14",
+        "content": "Invoice INV-2024-1012 | 2024-03-14\nSeller: Unifield Nissan Sales Mumbai Central. Buyer: Sneha Deshmukh.\nVehicle: Nissan Magnite (Petrol), Grey. Registration: MH01AB1245.\nVehicle price: INR 9,00,000.00. Registration charges: INR 44,100.00. Insurance: INR 33,350.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 9,95,450.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Mumbai Central, 2024-03-14."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2012",
+        "date": "2024-03-14",
+        "content": "Ownership file OWN-2012\nRegistered keeper: Sneha Deshmukh. Registration: MH01AB1245. Vehicle: Nissan Magnite, Petrol, model year 2024.\nRegistering office: Mumbai Central (MH01). Purchase and delivery date: 2024-03-14. Selling dealership: Unifield Nissan Sales Mumbai Central. Ownership sequence: first owner. Invoice reference: INV-2024-1012."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3012",
+        "date": "2024-03-14",
+        "content": "Vehicle: Nissan Magnite, registration MH01AB1245. Warranty agreement WAR-3012: coverage through 2027-03-14 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1246",
+    "make": "Citroen",
+    "model": "C3",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Rohan Deshmukh",
+    "dealer": "Unifield Citroen Sales Mumbai West",
+    "saleDate": "2024-04-15",
+    "price": 850000,
+    "warranty": "Warranty agreement WAR-3013: coverage through 2027-04-15 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1013",
+        "date": "2024-04-15",
+        "content": "Invoice INV-2024-1013 | 2024-04-15\nSeller: Unifield Citroen Sales Mumbai West. Buyer: Rohan Deshmukh.\nVehicle: Citroen C3 (Petrol), Black. Registration: MH02AB1246.\nVehicle price: INR 8,50,000.00. Registration charges: INR 45,200.00. Insurance: INR 34,200.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 9,19,400.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Mumbai West, 2024-04-15."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2013",
+        "date": "2024-04-15",
+        "content": "Ownership file OWN-2013\nRegistered keeper: Rohan Deshmukh. Registration: MH02AB1246. Vehicle: Citroen C3, Petrol, model year 2024.\nRegistering office: Mumbai West (MH02). Purchase and delivery date: 2024-04-15. Selling dealership: Unifield Citroen Sales Mumbai West. Ownership sequence: first owner. Invoice reference: INV-2024-1013."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3013",
+        "date": "2024-04-15",
+        "content": "Vehicle: Citroen C3, registration MH02AB1246. Warranty agreement WAR-3013: coverage through 2027-04-15 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1247",
+    "make": "Jeep",
+    "model": "Compass",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Priya Deshmukh",
+    "dealer": "Unifield Jeep Sales Pimpri-Chinchwad",
+    "saleDate": "2024-05-16",
+    "price": 2900000,
+    "warranty": "Warranty agreement WAR-3014: coverage through 2027-05-16 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1014",
+        "date": "2024-05-16",
+        "content": "Invoice INV-2024-1014 | 2024-05-16\nSeller: Unifield Jeep Sales Pimpri-Chinchwad. Buyer: Priya Deshmukh.\nVehicle: Jeep Compass (Diesel), Red. Registration: MH14AB1247.\nVehicle price: INR 29,00,000.00. Registration charges: INR 46,300.00. Insurance: INR 35,050.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 29,74,850.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Pimpri-Chinchwad, 2024-05-16."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2014",
+        "date": "2024-05-16",
+        "content": "Ownership file OWN-2014\nRegistered keeper: Priya Deshmukh. Registration: MH14AB1247. Vehicle: Jeep Compass, Diesel, model year 2024.\nRegistering office: Pimpri-Chinchwad (MH14). Purchase and delivery date: 2024-05-16. Selling dealership: Unifield Jeep Sales Pimpri-Chinchwad. Ownership sequence: first owner. Invoice reference: INV-2024-1014."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3014",
+        "date": "2024-05-16",
+        "content": "Vehicle: Jeep Compass, registration MH14AB1247. Warranty agreement WAR-3014: coverage through 2027-05-16 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1248",
+    "make": "Hyundai",
+    "model": "Venue",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Aditya Deshmukh",
+    "dealer": "Unifield Hyundai Sales Thane",
+    "saleDate": "2024-06-17",
+    "price": 1150000,
+    "warranty": "Warranty agreement WAR-3015: coverage through 2027-06-17 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1015",
+        "date": "2024-06-17",
+        "content": "Invoice INV-2024-1015 | 2024-06-17\nSeller: Unifield Hyundai Sales Thane. Buyer: Aditya Deshmukh.\nVehicle: Hyundai Venue (Petrol), Silver. Registration: MH04AB1248.\nVehicle price: INR 11,50,000.00. Registration charges: INR 47,400.00. Insurance: INR 35,900.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 12,20,800.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Thane, 2024-06-17."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2015",
+        "date": "2024-06-17",
+        "content": "Ownership file OWN-2015\nRegistered keeper: Aditya Deshmukh. Registration: MH04AB1248. Vehicle: Hyundai Venue, Petrol, model year 2024.\nRegistering office: Thane (MH04). Purchase and delivery date: 2024-06-17. Selling dealership: Unifield Hyundai Sales Thane. Ownership sequence: first owner. Invoice reference: INV-2024-1015."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3015",
+        "date": "2024-06-17",
+        "content": "Vehicle: Hyundai Venue, registration MH04AB1248. Warranty agreement WAR-3015: coverage through 2027-06-17 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1249",
+    "make": "Tata",
+    "model": "Punch",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "White",
+    "owner": "Neha Deshmukh",
+    "dealer": "Unifield Tata Sales Chhatrapati Sambhajinagar",
+    "saleDate": "2024-07-18",
+    "price": 900000,
+    "warranty": "Warranty agreement WAR-3016: coverage through 2027-07-18 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1016",
+        "date": "2024-07-18",
+        "content": "Invoice INV-2024-1016 | 2024-07-18\nSeller: Unifield Tata Sales Chhatrapati Sambhajinagar. Buyer: Neha Deshmukh.\nVehicle: Tata Punch (Petrol), White. Registration: MH20AB1249.\nVehicle price: INR 9,00,000.00. Registration charges: INR 48,500.00. Insurance: INR 36,750.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 10,03,250.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Chhatrapati Sambhajinagar, 2024-07-18."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2016",
+        "date": "2024-07-18",
+        "content": "Ownership file OWN-2016\nRegistered keeper: Neha Deshmukh. Registration: MH20AB1249. Vehicle: Tata Punch, Petrol, model year 2024.\nRegistering office: Chhatrapati Sambhajinagar (MH20). Purchase and delivery date: 2024-07-18. Selling dealership: Unifield Tata Sales Chhatrapati Sambhajinagar. Ownership sequence: first owner. Invoice reference: INV-2024-1016."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3016",
+        "date": "2024-07-18",
+        "content": "Vehicle: Tata Punch, registration MH20AB1249. Warranty agreement WAR-3016: coverage through 2027-07-18 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1250",
+    "make": "Tata",
+    "model": "Harrier",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sahil Deshmukh",
+    "dealer": "Unifield Tata Sales Nagpur",
+    "saleDate": "2024-08-19",
+    "price": 2450000,
+    "warranty": "Warranty agreement WAR-3017: coverage through 2027-08-19 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1017",
+        "date": "2024-08-19",
+        "content": "Invoice INV-2024-1017 | 2024-08-19\nSeller: Unifield Tata Sales Nagpur. Buyer: Sahil Deshmukh.\nVehicle: Tata Harrier (Diesel), Grey. Registration: MH31AB1250.\nVehicle price: INR 24,50,000.00. Registration charges: INR 49,600.00. Insurance: INR 37,600.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 25,27,200.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Nagpur, 2024-08-19."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2017",
+        "date": "2024-08-19",
+        "content": "Ownership file OWN-2017\nRegistered keeper: Sahil Deshmukh. Registration: MH31AB1250. Vehicle: Tata Harrier, Diesel, model year 2024.\nRegistering office: Nagpur (MH31). Purchase and delivery date: 2024-08-19. Selling dealership: Unifield Tata Sales Nagpur. Ownership sequence: first owner. Invoice reference: INV-2024-1017."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3017",
+        "date": "2024-08-19",
+        "content": "Vehicle: Tata Harrier, registration MH31AB1250. Warranty agreement WAR-3017: coverage through 2027-08-19 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1251",
+    "make": "Tata",
+    "model": "Safari",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Ananya Deshmukh",
+    "dealer": "Unifield Tata Sales Nashik",
+    "saleDate": "2024-09-20",
+    "price": 2750000,
+    "warranty": "Warranty agreement WAR-3018: coverage through 2027-09-20 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1018",
+        "date": "2024-09-20",
+        "content": "Invoice INV-2024-1018 | 2024-09-20\nSeller: Unifield Tata Sales Nashik. Buyer: Ananya Deshmukh.\nVehicle: Tata Safari (Diesel), Black. Registration: MH15AB1251.\nVehicle price: INR 27,50,000.00. Registration charges: INR 50,700.00. Insurance: INR 38,450.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 28,32,650.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Nashik, 2024-09-20."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2018",
+        "date": "2024-09-20",
+        "content": "Ownership file OWN-2018\nRegistered keeper: Ananya Deshmukh. Registration: MH15AB1251. Vehicle: Tata Safari, Diesel, model year 2024.\nRegistering office: Nashik (MH15). Purchase and delivery date: 2024-09-20. Selling dealership: Unifield Tata Sales Nashik. Ownership sequence: first owner. Invoice reference: INV-2024-1018."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3018",
+        "date": "2024-09-20",
+        "content": "Vehicle: Tata Safari, registration MH15AB1251. Warranty agreement WAR-3018: coverage through 2027-09-20 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1252",
+    "make": "Tata",
+    "model": "Tiago EV",
+    "fuelType": "Electric",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Omkar Deshmukh",
+    "dealer": "Unifield Tata Sales Kolhapur",
+    "saleDate": "2024-01-21",
+    "price": 1050000,
+    "warranty": "Warranty agreement WAR-3019: coverage through 2027-01-21 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1019",
+        "date": "2024-01-21",
+        "content": "Invoice INV-2024-1019 | 2024-01-21\nSeller: Unifield Tata Sales Kolhapur. Buyer: Omkar Deshmukh.\nVehicle: Tata Tiago EV (Electric), Red. Registration: MH09AB1252.\nVehicle price: INR 10,50,000.00. Registration charges: INR 51,800.00. Insurance: INR 39,300.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 11,28,600.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Kolhapur, 2024-01-21."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2019",
+        "date": "2024-01-21",
+        "content": "Ownership file OWN-2019\nRegistered keeper: Omkar Deshmukh. Registration: MH09AB1252. Vehicle: Tata Tiago EV, Electric, model year 2024.\nRegistering office: Kolhapur (MH09). Purchase and delivery date: 2024-01-21. Selling dealership: Unifield Tata Sales Kolhapur. Ownership sequence: first owner. Invoice reference: INV-2024-1019."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3019",
+        "date": "2024-01-21",
+        "content": "Vehicle: Tata Tiago EV, registration MH09AB1252. Warranty agreement WAR-3019: coverage through 2027-01-21 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1253",
+    "make": "Tata",
+    "model": "Nexon EV",
+    "fuelType": "Electric",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Riya Deshmukh",
+    "dealer": "Unifield Tata Sales Solapur",
+    "saleDate": "2024-02-22",
+    "price": 1750000,
+    "warranty": "Warranty agreement WAR-3020: coverage through 2027-02-22 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1020",
+        "date": "2024-02-22",
+        "content": "Invoice INV-2024-1020 | 2024-02-22\nSeller: Unifield Tata Sales Solapur. Buyer: Riya Deshmukh.\nVehicle: Tata Nexon EV (Electric), Silver. Registration: MH13AB1253.\nVehicle price: INR 17,50,000.00. Registration charges: INR 52,900.00. Insurance: INR 40,150.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 18,61,050.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Solapur, 2024-02-22."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2020",
+        "date": "2024-02-22",
+        "content": "Ownership file OWN-2020\nRegistered keeper: Riya Deshmukh. Registration: MH13AB1253. Vehicle: Tata Nexon EV, Electric, model year 2024.\nRegistering office: Solapur (MH13). Purchase and delivery date: 2024-02-22. Selling dealership: Unifield Tata Sales Solapur. Ownership sequence: first owner. Invoice reference: INV-2024-1020."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3020",
+        "date": "2024-02-22",
+        "content": "Vehicle: Tata Nexon EV, registration MH13AB1253. Warranty agreement WAR-3020: coverage through 2027-02-22 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1254",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "White",
+    "owner": "Aarav Kulkarni",
+    "dealer": "Unifield Toyota Sales Pune",
+    "saleDate": "2024-03-23",
+    "price": 4200000,
+    "warranty": "Warranty agreement WAR-3021: coverage through 2027-03-23 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1021",
+        "date": "2024-03-23",
+        "content": "Invoice INV-2024-1021 | 2024-03-23\nSeller: Unifield Toyota Sales Pune. Buyer: Aarav Kulkarni.\nVehicle: Toyota Fortuner (Diesel), White. Registration: MH12AB1254.\nVehicle price: INR 42,00,000.00. Registration charges: INR 54,000.00. Insurance: INR 41,000.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 42,85,000.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Pune, 2024-03-23."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2021",
+        "date": "2024-03-23",
+        "content": "Ownership file OWN-2021\nRegistered keeper: Aarav Kulkarni. Registration: MH12AB1254. Vehicle: Toyota Fortuner, Diesel, model year 2024.\nRegistering office: Pune (MH12). Purchase and delivery date: 2024-03-23. Selling dealership: Unifield Toyota Sales Pune. Ownership sequence: first owner. Invoice reference: INV-2024-1021."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3021",
+        "date": "2024-03-23",
+        "content": "Vehicle: Toyota Fortuner, registration MH12AB1254. Warranty agreement WAR-3021: coverage through 2027-03-23 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1255",
+    "make": "Toyota",
+    "model": "Glanza",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sneha Kulkarni",
+    "dealer": "Unifield Toyota Sales Mumbai Central",
+    "saleDate": "2024-04-24",
+    "price": 1000000,
+    "warranty": "Warranty agreement WAR-3022: coverage through 2027-04-24 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1022",
+        "date": "2024-04-24",
+        "content": "Invoice INV-2024-1022 | 2024-04-24\nSeller: Unifield Toyota Sales Mumbai Central. Buyer: Sneha Kulkarni.\nVehicle: Toyota Glanza (Petrol), Grey. Registration: MH01AB1255.\nVehicle price: INR 10,00,000.00. Registration charges: INR 55,100.00. Insurance: INR 41,850.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 10,90,450.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Mumbai Central, 2024-04-24."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2022",
+        "date": "2024-04-24",
+        "content": "Ownership file OWN-2022\nRegistered keeper: Sneha Kulkarni. Registration: MH01AB1255. Vehicle: Toyota Glanza, Petrol, model year 2024.\nRegistering office: Mumbai Central (MH01). Purchase and delivery date: 2024-04-24. Selling dealership: Unifield Toyota Sales Mumbai Central. Ownership sequence: first owner. Invoice reference: INV-2024-1022."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3022",
+        "date": "2024-04-24",
+        "content": "Vehicle: Toyota Glanza, registration MH01AB1255. Warranty agreement WAR-3022: coverage through 2027-04-24 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1256",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "fuelType": "Hybrid",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Rohan Kulkarni",
+    "dealer": "Unifield Toyota Sales Mumbai West",
+    "saleDate": "2024-05-25",
+    "price": 2000000,
+    "warranty": "Warranty agreement WAR-3023: coverage through 2027-05-25 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1023",
+        "date": "2024-05-25",
+        "content": "Invoice INV-2024-1023 | 2024-05-25\nSeller: Unifield Toyota Sales Mumbai West. Buyer: Rohan Kulkarni.\nVehicle: Toyota Urban Cruiser Hyryder (Hybrid), Black. Registration: MH02AB1256.\nVehicle price: INR 20,00,000.00. Registration charges: INR 56,200.00. Insurance: INR 42,700.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 20,86,400.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Mumbai West, 2024-05-25."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2023",
+        "date": "2024-05-25",
+        "content": "Ownership file OWN-2023\nRegistered keeper: Rohan Kulkarni. Registration: MH02AB1256. Vehicle: Toyota Urban Cruiser Hyryder, Hybrid, model year 2024.\nRegistering office: Mumbai West (MH02). Purchase and delivery date: 2024-05-25. Selling dealership: Unifield Toyota Sales Mumbai West. Ownership sequence: first owner. Invoice reference: INV-2024-1023."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3023",
+        "date": "2024-05-25",
+        "content": "Vehicle: Toyota Urban Cruiser Hyryder, registration MH02AB1256. Warranty agreement WAR-3023: coverage through 2027-05-25 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1257",
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "fuelType": "Hybrid",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Priya Kulkarni",
+    "dealer": "Unifield Toyota Sales Pimpri-Chinchwad",
+    "saleDate": "2024-06-26",
+    "price": 3200000,
+    "warranty": "Warranty agreement WAR-3024: coverage through 2027-06-26 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1024",
+        "date": "2024-06-26",
+        "content": "Invoice INV-2024-1024 | 2024-06-26\nSeller: Unifield Toyota Sales Pimpri-Chinchwad. Buyer: Priya Kulkarni.\nVehicle: Toyota Innova Hycross (Hybrid), Red. Registration: MH14AB1257.\nVehicle price: INR 32,00,000.00. Registration charges: INR 57,300.00. Insurance: INR 43,550.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 33,18,850.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Pimpri-Chinchwad, 2024-06-26."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2024",
+        "date": "2024-06-26",
+        "content": "Ownership file OWN-2024\nRegistered keeper: Priya Kulkarni. Registration: MH14AB1257. Vehicle: Toyota Innova Hycross, Hybrid, model year 2024.\nRegistering office: Pimpri-Chinchwad (MH14). Purchase and delivery date: 2024-06-26. Selling dealership: Unifield Toyota Sales Pimpri-Chinchwad. Ownership sequence: first owner. Invoice reference: INV-2024-1024."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3024",
+        "date": "2024-06-26",
+        "content": "Vehicle: Toyota Innova Hycross, registration MH14AB1257. Warranty agreement WAR-3024: coverage through 2027-06-26 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1258",
+    "make": "Honda",
+    "model": "Amaze",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Aditya Kulkarni",
+    "dealer": "Unifield Honda Sales Thane",
+    "saleDate": "2024-07-03",
+    "price": 1000000,
+    "warranty": "Warranty agreement WAR-3025: coverage through 2027-07-03 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1025",
+        "date": "2024-07-03",
+        "content": "Invoice INV-2024-1025 | 2024-07-03\nSeller: Unifield Honda Sales Thane. Buyer: Aditya Kulkarni.\nVehicle: Honda Amaze (Petrol), Silver. Registration: MH04AB1258.\nVehicle price: INR 10,00,000.00. Registration charges: INR 58,400.00. Insurance: INR 44,400.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 10,92,800.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Thane, 2024-07-03."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2025",
+        "date": "2024-07-03",
+        "content": "Ownership file OWN-2025\nRegistered keeper: Aditya Kulkarni. Registration: MH04AB1258. Vehicle: Honda Amaze, Petrol, model year 2024.\nRegistering office: Thane (MH04). Purchase and delivery date: 2024-07-03. Selling dealership: Unifield Honda Sales Thane. Ownership sequence: first owner. Invoice reference: INV-2024-1025."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3025",
+        "date": "2024-07-03",
+        "content": "Vehicle: Honda Amaze, registration MH04AB1258. Warranty agreement WAR-3025: coverage through 2027-07-03 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1259",
+    "make": "Honda",
+    "model": "Elevate",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "White",
+    "owner": "Neha Kulkarni",
+    "dealer": "Unifield Honda Sales Chhatrapati Sambhajinagar",
+    "saleDate": "2024-08-04",
+    "price": 1550000,
+    "warranty": "Warranty agreement WAR-3026: coverage through 2027-08-04 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1026",
+        "date": "2024-08-04",
+        "content": "Invoice INV-2024-1026 | 2024-08-04\nSeller: Unifield Honda Sales Chhatrapati Sambhajinagar. Buyer: Neha Kulkarni.\nVehicle: Honda Elevate (Petrol), White. Registration: MH20AB1259.\nVehicle price: INR 15,50,000.00. Registration charges: INR 59,500.00. Insurance: INR 45,250.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 16,48,250.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Chhatrapati Sambhajinagar, 2024-08-04."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2026",
+        "date": "2024-08-04",
+        "content": "Ownership file OWN-2026\nRegistered keeper: Neha Kulkarni. Registration: MH20AB1259. Vehicle: Honda Elevate, Petrol, model year 2024.\nRegistering office: Chhatrapati Sambhajinagar (MH20). Purchase and delivery date: 2024-08-04. Selling dealership: Unifield Honda Sales Chhatrapati Sambhajinagar. Ownership sequence: first owner. Invoice reference: INV-2024-1026."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3026",
+        "date": "2024-08-04",
+        "content": "Vehicle: Honda Elevate, registration MH20AB1259. Warranty agreement WAR-3026: coverage through 2027-08-04 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1260",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sahil Kulkarni",
+    "dealer": "Unifield Maruti Suzuki Sales Nagpur",
+    "saleDate": "2024-09-05",
+    "price": 1000000,
+    "warranty": "Warranty agreement WAR-3027: coverage through 2027-09-05 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1027",
+        "date": "2024-09-05",
+        "content": "Invoice INV-2024-1027 | 2024-09-05\nSeller: Unifield Maruti Suzuki Sales Nagpur. Buyer: Sahil Kulkarni.\nVehicle: Maruti Suzuki Baleno (Petrol), Grey. Registration: MH31AB1260.\nVehicle price: INR 10,00,000.00. Registration charges: INR 60,600.00. Insurance: INR 46,100.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 10,94,200.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Nagpur, 2024-09-05."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2027",
+        "date": "2024-09-05",
+        "content": "Ownership file OWN-2027\nRegistered keeper: Sahil Kulkarni. Registration: MH31AB1260. Vehicle: Maruti Suzuki Baleno, Petrol, model year 2024.\nRegistering office: Nagpur (MH31). Purchase and delivery date: 2024-09-05. Selling dealership: Unifield Maruti Suzuki Sales Nagpur. Ownership sequence: first owner. Invoice reference: INV-2024-1027."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3027",
+        "date": "2024-09-05",
+        "content": "Vehicle: Maruti Suzuki Baleno, registration MH31AB1260. Warranty agreement WAR-3027: coverage through 2027-09-05 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1261",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Ananya Kulkarni",
+    "dealer": "Unifield Maruti Suzuki Sales Nashik",
+    "saleDate": "2024-01-06",
+    "price": 1250000,
+    "warranty": "Warranty agreement WAR-3028: coverage through 2027-01-06 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1028",
+        "date": "2024-01-06",
+        "content": "Invoice INV-2024-1028 | 2024-01-06\nSeller: Unifield Maruti Suzuki Sales Nashik. Buyer: Ananya Kulkarni.\nVehicle: Maruti Suzuki Brezza (Petrol), Black. Registration: MH15AB1261.\nVehicle price: INR 12,50,000.00. Registration charges: INR 61,700.00. Insurance: INR 46,950.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 13,76,650.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Nashik, 2024-01-06."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2028",
+        "date": "2024-01-06",
+        "content": "Ownership file OWN-2028\nRegistered keeper: Ananya Kulkarni. Registration: MH15AB1261. Vehicle: Maruti Suzuki Brezza, Petrol, model year 2024.\nRegistering office: Nashik (MH15). Purchase and delivery date: 2024-01-06. Selling dealership: Unifield Maruti Suzuki Sales Nashik. Ownership sequence: first owner. Invoice reference: INV-2024-1028."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3028",
+        "date": "2024-01-06",
+        "content": "Vehicle: Maruti Suzuki Brezza, registration MH15AB1261. Warranty agreement WAR-3028: coverage through 2027-01-06 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1262",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Omkar Kulkarni",
+    "dealer": "Unifield Maruti Suzuki Sales Kolhapur",
+    "saleDate": "2024-02-07",
+    "price": 1300000,
+    "warranty": "Warranty agreement WAR-3029: coverage through 2027-02-07 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1029",
+        "date": "2024-02-07",
+        "content": "Invoice INV-2024-1029 | 2024-02-07\nSeller: Unifield Maruti Suzuki Sales Kolhapur. Buyer: Omkar Kulkarni.\nVehicle: Maruti Suzuki Ertiga (Petrol), Red. Registration: MH09AB1262.\nVehicle price: INR 13,00,000.00. Registration charges: INR 62,800.00. Insurance: INR 47,800.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 14,00,600.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Kolhapur, 2024-02-07."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2029",
+        "date": "2024-02-07",
+        "content": "Ownership file OWN-2029\nRegistered keeper: Omkar Kulkarni. Registration: MH09AB1262. Vehicle: Maruti Suzuki Ertiga, Petrol, model year 2024.\nRegistering office: Kolhapur (MH09). Purchase and delivery date: 2024-02-07. Selling dealership: Unifield Maruti Suzuki Sales Kolhapur. Ownership sequence: first owner. Invoice reference: INV-2024-1029."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3029",
+        "date": "2024-02-07",
+        "content": "Vehicle: Maruti Suzuki Ertiga, registration MH09AB1262. Warranty agreement WAR-3029: coverage through 2027-02-07 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1263",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "fuelType": "Hybrid",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Riya Kulkarni",
+    "dealer": "Unifield Maruti Suzuki Sales Solapur",
+    "saleDate": "2024-03-08",
+    "price": 2100000,
+    "warranty": "Warranty agreement WAR-3030: coverage through 2027-03-08 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1030",
+        "date": "2024-03-08",
+        "content": "Invoice INV-2024-1030 | 2024-03-08\nSeller: Unifield Maruti Suzuki Sales Solapur. Buyer: Riya Kulkarni.\nVehicle: Maruti Suzuki Grand Vitara (Hybrid), Silver. Registration: MH13AB1263.\nVehicle price: INR 21,00,000.00. Registration charges: INR 63,900.00. Insurance: INR 48,650.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 22,06,050.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Solapur, 2024-03-08."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2030",
+        "date": "2024-03-08",
+        "content": "Ownership file OWN-2030\nRegistered keeper: Riya Kulkarni. Registration: MH13AB1263. Vehicle: Maruti Suzuki Grand Vitara, Hybrid, model year 2024.\nRegistering office: Solapur (MH13). Purchase and delivery date: 2024-03-08. Selling dealership: Unifield Maruti Suzuki Sales Solapur. Ownership sequence: first owner. Invoice reference: INV-2024-1030."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3030",
+        "date": "2024-03-08",
+        "content": "Vehicle: Maruti Suzuki Grand Vitara, registration MH13AB1263. Warranty agreement WAR-3030: coverage through 2027-03-08 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1264",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "White",
+    "owner": "Aarav Joshi",
+    "dealer": "Unifield Maruti Suzuki Sales Pune",
+    "saleDate": "2024-04-09",
+    "price": 1100000,
+    "warranty": "Warranty agreement WAR-3031: coverage through 2027-04-09 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1031",
+        "date": "2024-04-09",
+        "content": "Invoice INV-2024-1031 | 2024-04-09\nSeller: Unifield Maruti Suzuki Sales Pune. Buyer: Aarav Joshi.\nVehicle: Maruti Suzuki Fronx (Petrol), White. Registration: MH12AB1264.\nVehicle price: INR 11,00,000.00. Registration charges: INR 65,000.00. Insurance: INR 49,500.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 12,02,000.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Pune, 2024-04-09."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2031",
+        "date": "2024-04-09",
+        "content": "Ownership file OWN-2031\nRegistered keeper: Aarav Joshi. Registration: MH12AB1264. Vehicle: Maruti Suzuki Fronx, Petrol, model year 2024.\nRegistering office: Pune (MH12). Purchase and delivery date: 2024-04-09. Selling dealership: Unifield Maruti Suzuki Sales Pune. Ownership sequence: first owner. Invoice reference: INV-2024-1031."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3031",
+        "date": "2024-04-09",
+        "content": "Vehicle: Maruti Suzuki Fronx, registration MH12AB1264. Warranty agreement WAR-3031: coverage through 2027-04-09 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1265",
+    "make": "Hyundai",
+    "model": "i20",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sneha Joshi",
+    "dealer": "Unifield Hyundai Sales Mumbai Central",
+    "saleDate": "2024-05-10",
+    "price": 1150000,
+    "warranty": "Warranty agreement WAR-3032: coverage through 2027-05-10 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1032",
+        "date": "2024-05-10",
+        "content": "Invoice INV-2024-1032 | 2024-05-10\nSeller: Unifield Hyundai Sales Mumbai Central. Buyer: Sneha Joshi.\nVehicle: Hyundai i20 (Petrol), Grey. Registration: MH01AB1265.\nVehicle price: INR 11,50,000.00. Registration charges: INR 66,100.00. Insurance: INR 50,350.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 12,84,450.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Mumbai Central, 2024-05-10."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2032",
+        "date": "2024-05-10",
+        "content": "Ownership file OWN-2032\nRegistered keeper: Sneha Joshi. Registration: MH01AB1265. Vehicle: Hyundai i20, Petrol, model year 2024.\nRegistering office: Mumbai Central (MH01). Purchase and delivery date: 2024-05-10. Selling dealership: Unifield Hyundai Sales Mumbai Central. Ownership sequence: first owner. Invoice reference: INV-2024-1032."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3032",
+        "date": "2024-05-10",
+        "content": "Vehicle: Hyundai i20, registration MH01AB1265. Warranty agreement WAR-3032: coverage through 2027-05-10 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1266",
+    "make": "Hyundai",
+    "model": "Verna",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Rohan Joshi",
+    "dealer": "Unifield Hyundai Sales Mumbai West",
+    "saleDate": "2024-06-11",
+    "price": 1700000,
+    "warranty": "Warranty agreement WAR-3033: coverage through 2027-06-11 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1033",
+        "date": "2024-06-11",
+        "content": "Invoice INV-2024-1033 | 2024-06-11\nSeller: Unifield Hyundai Sales Mumbai West. Buyer: Rohan Joshi.\nVehicle: Hyundai Verna (Petrol), Black. Registration: MH02AB1266.\nVehicle price: INR 17,00,000.00. Registration charges: INR 67,200.00. Insurance: INR 51,200.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 18,08,400.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Mumbai West, 2024-06-11."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2033",
+        "date": "2024-06-11",
+        "content": "Ownership file OWN-2033\nRegistered keeper: Rohan Joshi. Registration: MH02AB1266. Vehicle: Hyundai Verna, Petrol, model year 2024.\nRegistering office: Mumbai West (MH02). Purchase and delivery date: 2024-06-11. Selling dealership: Unifield Hyundai Sales Mumbai West. Ownership sequence: first owner. Invoice reference: INV-2024-1033."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3033",
+        "date": "2024-06-11",
+        "content": "Vehicle: Hyundai Verna, registration MH02AB1266. Warranty agreement WAR-3033: coverage through 2027-06-11 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1267",
+    "make": "Hyundai",
+    "model": "Exter",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Priya Joshi",
+    "dealer": "Unifield Hyundai Sales Pimpri-Chinchwad",
+    "saleDate": "2024-07-12",
+    "price": 950000,
+    "warranty": "Warranty agreement WAR-3034: coverage through 2027-07-12 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1034",
+        "date": "2024-07-12",
+        "content": "Invoice INV-2024-1034 | 2024-07-12\nSeller: Unifield Hyundai Sales Pimpri-Chinchwad. Buyer: Priya Joshi.\nVehicle: Hyundai Exter (Petrol), Red. Registration: MH14AB1267.\nVehicle price: INR 9,50,000.00. Registration charges: INR 68,300.00. Insurance: INR 52,050.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 10,63,850.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Pimpri-Chinchwad, 2024-07-12."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2034",
+        "date": "2024-07-12",
+        "content": "Ownership file OWN-2034\nRegistered keeper: Priya Joshi. Registration: MH14AB1267. Vehicle: Hyundai Exter, Petrol, model year 2024.\nRegistering office: Pimpri-Chinchwad (MH14). Purchase and delivery date: 2024-07-12. Selling dealership: Unifield Hyundai Sales Pimpri-Chinchwad. Ownership sequence: first owner. Invoice reference: INV-2024-1034."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3034",
+        "date": "2024-07-12",
+        "content": "Vehicle: Hyundai Exter, registration MH14AB1267. Warranty agreement WAR-3034: coverage through 2027-07-12 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1268",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Aditya Joshi",
+    "dealer": "Unifield Mahindra Sales Thane",
+    "saleDate": "2024-08-13",
+    "price": 2650000,
+    "warranty": "Warranty agreement WAR-3035: coverage through 2027-08-13 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1035",
+        "date": "2024-08-13",
+        "content": "Invoice INV-2024-1035 | 2024-08-13\nSeller: Unifield Mahindra Sales Thane. Buyer: Aditya Joshi.\nVehicle: Mahindra XUV700 (Diesel), Silver. Registration: MH04AB1268.\nVehicle price: INR 26,50,000.00. Registration charges: INR 69,400.00. Insurance: INR 52,900.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 27,59,800.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Thane, 2024-08-13."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2035",
+        "date": "2024-08-13",
+        "content": "Ownership file OWN-2035\nRegistered keeper: Aditya Joshi. Registration: MH04AB1268. Vehicle: Mahindra XUV700, Diesel, model year 2024.\nRegistering office: Thane (MH04). Purchase and delivery date: 2024-08-13. Selling dealership: Unifield Mahindra Sales Thane. Ownership sequence: first owner. Invoice reference: INV-2024-1035."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3035",
+        "date": "2024-08-13",
+        "content": "Vehicle: Mahindra XUV700, registration MH04AB1268. Warranty agreement WAR-3035: coverage through 2027-08-13 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1269",
+    "make": "Mahindra",
+    "model": "Thar",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "White",
+    "owner": "Neha Joshi",
+    "dealer": "Unifield Mahindra Sales Chhatrapati Sambhajinagar",
+    "saleDate": "2024-09-14",
+    "price": 1850000,
+    "warranty": "Warranty agreement WAR-3036: coverage through 2027-09-14 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1036",
+        "date": "2024-09-14",
+        "content": "Invoice INV-2024-1036 | 2024-09-14\nSeller: Unifield Mahindra Sales Chhatrapati Sambhajinagar. Buyer: Neha Joshi.\nVehicle: Mahindra Thar (Diesel), White. Registration: MH20AB1269.\nVehicle price: INR 18,50,000.00. Registration charges: INR 70,500.00. Insurance: INR 53,750.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 19,92,250.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Chhatrapati Sambhajinagar, 2024-09-14."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2036",
+        "date": "2024-09-14",
+        "content": "Ownership file OWN-2036\nRegistered keeper: Neha Joshi. Registration: MH20AB1269. Vehicle: Mahindra Thar, Diesel, model year 2024.\nRegistering office: Chhatrapati Sambhajinagar (MH20). Purchase and delivery date: 2024-09-14. Selling dealership: Unifield Mahindra Sales Chhatrapati Sambhajinagar. Ownership sequence: first owner. Invoice reference: INV-2024-1036."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3036",
+        "date": "2024-09-14",
+        "content": "Vehicle: Mahindra Thar, registration MH20AB1269. Warranty agreement WAR-3036: coverage through 2027-09-14 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1270",
+    "make": "Mahindra",
+    "model": "Bolero",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sahil Joshi",
+    "dealer": "Unifield Mahindra Sales Nagpur",
+    "saleDate": "2024-01-15",
+    "price": 1150000,
+    "warranty": "Warranty agreement WAR-3037: coverage through 2027-01-15 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1037",
+        "date": "2024-01-15",
+        "content": "Invoice INV-2024-1037 | 2024-01-15\nSeller: Unifield Mahindra Sales Nagpur. Buyer: Sahil Joshi.\nVehicle: Mahindra Bolero (Diesel), Grey. Registration: MH31AB1270.\nVehicle price: INR 11,50,000.00. Registration charges: INR 71,600.00. Insurance: INR 54,600.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 12,66,200.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Nagpur, 2024-01-15."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2037",
+        "date": "2024-01-15",
+        "content": "Ownership file OWN-2037\nRegistered keeper: Sahil Joshi. Registration: MH31AB1270. Vehicle: Mahindra Bolero, Diesel, model year 2024.\nRegistering office: Nagpur (MH31). Purchase and delivery date: 2024-01-15. Selling dealership: Unifield Mahindra Sales Nagpur. Ownership sequence: first owner. Invoice reference: INV-2024-1037."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3037",
+        "date": "2024-01-15",
+        "content": "Vehicle: Mahindra Bolero, registration MH31AB1270. Warranty agreement WAR-3037: coverage through 2027-01-15 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1271",
+    "make": "Kia",
+    "model": "Sonet",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Ananya Joshi",
+    "dealer": "Unifield Kia Sales Nashik",
+    "saleDate": "2024-02-16",
+    "price": 1250000,
+    "warranty": "Warranty agreement WAR-3038: coverage through 2027-02-16 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1038",
+        "date": "2024-02-16",
+        "content": "Invoice INV-2024-1038 | 2024-02-16\nSeller: Unifield Kia Sales Nashik. Buyer: Ananya Joshi.\nVehicle: Kia Sonet (Petrol), Black. Registration: MH15AB1271.\nVehicle price: INR 12,50,000.00. Registration charges: INR 72,700.00. Insurance: INR 55,450.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 13,71,650.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Nashik, 2024-02-16."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2038",
+        "date": "2024-02-16",
+        "content": "Ownership file OWN-2038\nRegistered keeper: Ananya Joshi. Registration: MH15AB1271. Vehicle: Kia Sonet, Petrol, model year 2024.\nRegistering office: Nashik (MH15). Purchase and delivery date: 2024-02-16. Selling dealership: Unifield Kia Sales Nashik. Ownership sequence: first owner. Invoice reference: INV-2024-1038."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3038",
+        "date": "2024-02-16",
+        "content": "Vehicle: Kia Sonet, registration MH15AB1271. Warranty agreement WAR-3038: coverage through 2027-02-16 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1272",
+    "make": "Kia",
+    "model": "Carens",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Omkar Joshi",
+    "dealer": "Unifield Kia Sales Kolhapur",
+    "saleDate": "2024-03-17",
+    "price": 1800000,
+    "warranty": "Warranty agreement WAR-3039: coverage through 2027-03-17 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1039",
+        "date": "2024-03-17",
+        "content": "Invoice INV-2024-1039 | 2024-03-17\nSeller: Unifield Kia Sales Kolhapur. Buyer: Omkar Joshi.\nVehicle: Kia Carens (Diesel), Red. Registration: MH09AB1272.\nVehicle price: INR 18,00,000.00. Registration charges: INR 73,800.00. Insurance: INR 56,300.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 19,17,600.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Kolhapur, 2024-03-17."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2039",
+        "date": "2024-03-17",
+        "content": "Ownership file OWN-2039\nRegistered keeper: Omkar Joshi. Registration: MH09AB1272. Vehicle: Kia Carens, Diesel, model year 2024.\nRegistering office: Kolhapur (MH09). Purchase and delivery date: 2024-03-17. Selling dealership: Unifield Kia Sales Kolhapur. Ownership sequence: first owner. Invoice reference: INV-2024-1039."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3039",
+        "date": "2024-03-17",
+        "content": "Vehicle: Kia Carens, registration MH09AB1272. Warranty agreement WAR-3039: coverage through 2027-03-17 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1273",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Riya Joshi",
+    "dealer": "Unifield Skoda Sales Solapur",
+    "saleDate": "2024-04-18",
+    "price": 1750000,
+    "warranty": "Warranty agreement WAR-3040: coverage through 2027-04-18 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1040",
+        "date": "2024-04-18",
+        "content": "Invoice INV-2024-1040 | 2024-04-18\nSeller: Unifield Skoda Sales Solapur. Buyer: Riya Joshi.\nVehicle: Skoda Kushaq (Petrol), Silver. Registration: MH13AB1273.\nVehicle price: INR 17,50,000.00. Registration charges: INR 74,900.00. Insurance: INR 57,150.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 19,00,050.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Solapur, 2024-04-18."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2040",
+        "date": "2024-04-18",
+        "content": "Ownership file OWN-2040\nRegistered keeper: Riya Joshi. Registration: MH13AB1273. Vehicle: Skoda Kushaq, Petrol, model year 2024.\nRegistering office: Solapur (MH13). Purchase and delivery date: 2024-04-18. Selling dealership: Unifield Skoda Sales Solapur. Ownership sequence: first owner. Invoice reference: INV-2024-1040."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3040",
+        "date": "2024-04-18",
+        "content": "Vehicle: Skoda Kushaq, registration MH13AB1273. Warranty agreement WAR-3040: coverage through 2027-04-18 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH12AB1274",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "White",
+    "owner": "Aarav Shinde",
+    "dealer": "Unifield Volkswagen Sales Pune",
+    "saleDate": "2024-05-19",
+    "price": 1800000,
+    "warranty": "Warranty agreement WAR-3041: coverage through 2027-05-19 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1041",
+        "date": "2024-05-19",
+        "content": "Invoice INV-2024-1041 | 2024-05-19\nSeller: Unifield Volkswagen Sales Pune. Buyer: Aarav Shinde.\nVehicle: Volkswagen Taigun (Petrol), White. Registration: MH12AB1274.\nVehicle price: INR 18,00,000.00. Registration charges: INR 76,000.00. Insurance: INR 58,000.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 19,24,000.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Pune, 2024-05-19."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2041",
+        "date": "2024-05-19",
+        "content": "Ownership file OWN-2041\nRegistered keeper: Aarav Shinde. Registration: MH12AB1274. Vehicle: Volkswagen Taigun, Petrol, model year 2024.\nRegistering office: Pune (MH12). Purchase and delivery date: 2024-05-19. Selling dealership: Unifield Volkswagen Sales Pune. Ownership sequence: first owner. Invoice reference: INV-2024-1041."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3041",
+        "date": "2024-05-19",
+        "content": "Vehicle: Volkswagen Taigun, registration MH12AB1274. Warranty agreement WAR-3041: coverage through 2027-05-19 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH01AB1275",
+    "make": "MG",
+    "model": "Comet EV",
+    "fuelType": "Electric",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sneha Shinde",
+    "dealer": "Unifield MG Sales Mumbai Central",
+    "saleDate": "2024-06-20",
+    "price": 900000,
+    "warranty": "Warranty agreement WAR-3042: coverage through 2027-06-20 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1042",
+        "date": "2024-06-20",
+        "content": "Invoice INV-2024-1042 | 2024-06-20\nSeller: Unifield MG Sales Mumbai Central. Buyer: Sneha Shinde.\nVehicle: MG Comet EV (Electric), Grey. Registration: MH01AB1275.\nVehicle price: INR 9,00,000.00. Registration charges: INR 77,100.00. Insurance: INR 58,850.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 10,29,450.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Mumbai Central, 2024-06-20."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2042",
+        "date": "2024-06-20",
+        "content": "Ownership file OWN-2042\nRegistered keeper: Sneha Shinde. Registration: MH01AB1275. Vehicle: MG Comet EV, Electric, model year 2024.\nRegistering office: Mumbai Central (MH01). Purchase and delivery date: 2024-06-20. Selling dealership: Unifield MG Sales Mumbai Central. Ownership sequence: first owner. Invoice reference: INV-2024-1042."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3042",
+        "date": "2024-06-20",
+        "content": "Vehicle: MG Comet EV, registration MH01AB1275. Warranty agreement WAR-3042: coverage through 2027-06-20 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH02AB1276",
+    "make": "MG",
+    "model": "ZS EV",
+    "fuelType": "Electric",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Rohan Shinde",
+    "dealer": "Unifield MG Sales Mumbai West",
+    "saleDate": "2024-07-21",
+    "price": 2450000,
+    "warranty": "Warranty agreement WAR-3043: coverage through 2027-07-21 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1043",
+        "date": "2024-07-21",
+        "content": "Invoice INV-2024-1043 | 2024-07-21\nSeller: Unifield MG Sales Mumbai West. Buyer: Rohan Shinde.\nVehicle: MG ZS EV (Electric), Black. Registration: MH02AB1276.\nVehicle price: INR 24,50,000.00. Registration charges: INR 78,200.00. Insurance: INR 59,700.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 25,75,400.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Mumbai West, 2024-07-21."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2043",
+        "date": "2024-07-21",
+        "content": "Ownership file OWN-2043\nRegistered keeper: Rohan Shinde. Registration: MH02AB1276. Vehicle: MG ZS EV, Electric, model year 2024.\nRegistering office: Mumbai West (MH02). Purchase and delivery date: 2024-07-21. Selling dealership: Unifield MG Sales Mumbai West. Ownership sequence: first owner. Invoice reference: INV-2024-1043."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3043",
+        "date": "2024-07-21",
+        "content": "Vehicle: MG ZS EV, registration MH02AB1276. Warranty agreement WAR-3043: coverage through 2027-07-21 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH14AB1277",
+    "make": "Renault",
+    "model": "Triber",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Priya Shinde",
+    "dealer": "Unifield Renault Sales Pimpri-Chinchwad",
+    "saleDate": "2024-08-22",
+    "price": 950000,
+    "warranty": "Warranty agreement WAR-3044: coverage through 2027-08-22 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1044",
+        "date": "2024-08-22",
+        "content": "Invoice INV-2024-1044 | 2024-08-22\nSeller: Unifield Renault Sales Pimpri-Chinchwad. Buyer: Priya Shinde.\nVehicle: Renault Triber (Petrol), Red. Registration: MH14AB1277.\nVehicle price: INR 9,50,000.00. Registration charges: INR 79,300.00. Insurance: INR 60,550.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 11,07,850.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Pimpri-Chinchwad, 2024-08-22."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2044",
+        "date": "2024-08-22",
+        "content": "Ownership file OWN-2044\nRegistered keeper: Priya Shinde. Registration: MH14AB1277. Vehicle: Renault Triber, Petrol, model year 2024.\nRegistering office: Pimpri-Chinchwad (MH14). Purchase and delivery date: 2024-08-22. Selling dealership: Unifield Renault Sales Pimpri-Chinchwad. Ownership sequence: first owner. Invoice reference: INV-2024-1044."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3044",
+        "date": "2024-08-22",
+        "content": "Vehicle: Renault Triber, registration MH14AB1277. Warranty agreement WAR-3044: coverage through 2027-08-22 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH04AB1278",
+    "make": "Citroen",
+    "model": "eC3",
+    "fuelType": "Electric",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Aditya Shinde",
+    "dealer": "Unifield Citroen Sales Thane",
+    "saleDate": "2024-09-23",
+    "price": 1300000,
+    "warranty": "Warranty agreement WAR-3045: coverage through 2027-09-23 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1045",
+        "date": "2024-09-23",
+        "content": "Invoice INV-2024-1045 | 2024-09-23\nSeller: Unifield Citroen Sales Thane. Buyer: Aditya Shinde.\nVehicle: Citroen eC3 (Electric), Silver. Registration: MH04AB1278.\nVehicle price: INR 13,00,000.00. Registration charges: INR 80,400.00. Insurance: INR 61,400.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 14,31,800.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Thane, 2024-09-23."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2045",
+        "date": "2024-09-23",
+        "content": "Ownership file OWN-2045\nRegistered keeper: Aditya Shinde. Registration: MH04AB1278. Vehicle: Citroen eC3, Electric, model year 2024.\nRegistering office: Thane (MH04). Purchase and delivery date: 2024-09-23. Selling dealership: Unifield Citroen Sales Thane. Ownership sequence: first owner. Invoice reference: INV-2024-1045."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3045",
+        "date": "2024-09-23",
+        "content": "Vehicle: Citroen eC3, registration MH04AB1278. Warranty agreement WAR-3045: coverage through 2027-09-23 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH20AB1279",
+    "make": "BMW",
+    "model": "X1",
+    "fuelType": "Diesel",
+    "year": 2024,
+    "color": "White",
+    "owner": "Neha Shinde",
+    "dealer": "Unifield BMW Sales Chhatrapati Sambhajinagar",
+    "saleDate": "2024-01-24",
+    "price": 5500000,
+    "warranty": "Warranty agreement WAR-3046: coverage through 2027-01-24 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1046",
+        "date": "2024-01-24",
+        "content": "Invoice INV-2024-1046 | 2024-01-24\nSeller: Unifield BMW Sales Chhatrapati Sambhajinagar. Buyer: Neha Shinde.\nVehicle: BMW X1 (Diesel), White. Registration: MH20AB1279.\nVehicle price: INR 55,00,000.00. Registration charges: INR 81,500.00. Insurance: INR 62,250.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 56,37,250.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Chhatrapati Sambhajinagar, 2024-01-24."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2046",
+        "date": "2024-01-24",
+        "content": "Ownership file OWN-2046\nRegistered keeper: Neha Shinde. Registration: MH20AB1279. Vehicle: BMW X1, Diesel, model year 2024.\nRegistering office: Chhatrapati Sambhajinagar (MH20). Purchase and delivery date: 2024-01-24. Selling dealership: Unifield BMW Sales Chhatrapati Sambhajinagar. Ownership sequence: first owner. Invoice reference: INV-2024-1046."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3046",
+        "date": "2024-01-24",
+        "content": "Vehicle: BMW X1, registration MH20AB1279. Warranty agreement WAR-3046: coverage through 2027-01-24 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH31AB1280",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Grey",
+    "owner": "Sahil Shinde",
+    "dealer": "Unifield Mercedes-Benz Sales Nagpur",
+    "saleDate": "2024-02-25",
+    "price": 6500000,
+    "warranty": "Warranty agreement WAR-3047: coverage through 2027-02-25 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1047",
+        "date": "2024-02-25",
+        "content": "Invoice INV-2024-1047 | 2024-02-25\nSeller: Unifield Mercedes-Benz Sales Nagpur. Buyer: Sahil Shinde.\nVehicle: Mercedes-Benz C-Class (Petrol), Grey. Registration: MH31AB1280.\nVehicle price: INR 65,00,000.00. Registration charges: INR 82,600.00. Insurance: INR 63,100.00. Accessories: INR 12,500.00. Discount: INR 25,000.00.\nTotal invoice value: INR 66,33,200.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Nagpur, 2024-02-25."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2047",
+        "date": "2024-02-25",
+        "content": "Ownership file OWN-2047\nRegistered keeper: Sahil Shinde. Registration: MH31AB1280. Vehicle: Mercedes-Benz C-Class, Petrol, model year 2024.\nRegistering office: Nagpur (MH31). Purchase and delivery date: 2024-02-25. Selling dealership: Unifield Mercedes-Benz Sales Nagpur. Ownership sequence: first owner. Invoice reference: INV-2024-1047."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3047",
+        "date": "2024-02-25",
+        "content": "Vehicle: Mercedes-Benz C-Class, registration MH31AB1280. Warranty agreement WAR-3047: coverage through 2027-02-25 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH15AB1281",
+    "make": "Audi",
+    "model": "Q3",
+    "fuelType": "Petrol",
+    "year": 2024,
+    "color": "Black",
+    "owner": "Ananya Shinde",
+    "dealer": "Unifield Audi Sales Nashik",
+    "saleDate": "2024-03-26",
+    "price": 5200000,
+    "warranty": "Warranty agreement WAR-3048: coverage through 2027-03-26 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1048",
+        "date": "2024-03-26",
+        "content": "Invoice INV-2024-1048 | 2024-03-26\nSeller: Unifield Audi Sales Nashik. Buyer: Ananya Shinde.\nVehicle: Audi Q3 (Petrol), Black. Registration: MH15AB1281.\nVehicle price: INR 52,00,000.00. Registration charges: INR 83,700.00. Insurance: INR 63,950.00. Accessories: INR 18,000.00. Discount: INR 0.00.\nTotal invoice value: INR 53,65,650.00. Payment: Bank draft. Balance due: INR 0.00. Delivery: Nashik, 2024-03-26."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2048",
+        "date": "2024-03-26",
+        "content": "Ownership file OWN-2048\nRegistered keeper: Ananya Shinde. Registration: MH15AB1281. Vehicle: Audi Q3, Petrol, model year 2024.\nRegistering office: Nashik (MH15). Purchase and delivery date: 2024-03-26. Selling dealership: Unifield Audi Sales Nashik. Ownership sequence: first owner. Invoice reference: INV-2024-1048."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3048",
+        "date": "2024-03-26",
+        "content": "Vehicle: Audi Q3, registration MH15AB1281. Warranty agreement WAR-3048: coverage through 2027-03-26 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH09AB1282",
+    "make": "Volvo",
+    "model": "XC60",
+    "fuelType": "Hybrid",
+    "year": 2024,
+    "color": "Red",
+    "owner": "Omkar Shinde",
+    "dealer": "Unifield Volvo Sales Kolhapur",
+    "saleDate": "2024-04-03",
+    "price": 7200000,
+    "warranty": "Warranty agreement WAR-3049: coverage through 2027-04-03 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1049",
+        "date": "2024-04-03",
+        "content": "Invoice INV-2024-1049 | 2024-04-03\nSeller: Unifield Volvo Sales Kolhapur. Buyer: Omkar Shinde.\nVehicle: Volvo XC60 (Hybrid), Red. Registration: MH09AB1282.\nVehicle price: INR 72,00,000.00. Registration charges: INR 84,800.00. Insurance: INR 64,800.00. Accessories: INR 0.00. Discount: INR 10,000.00.\nTotal invoice value: INR 73,39,600.00. Payment: Bank transfer. Balance due: INR 0.00. Delivery: Kolhapur, 2024-04-03."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2049",
+        "date": "2024-04-03",
+        "content": "Ownership file OWN-2049\nRegistered keeper: Omkar Shinde. Registration: MH09AB1282. Vehicle: Volvo XC60, Hybrid, model year 2024.\nRegistering office: Kolhapur (MH09). Purchase and delivery date: 2024-04-03. Selling dealership: Unifield Volvo Sales Kolhapur. Ownership sequence: first owner. Invoice reference: INV-2024-1049."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3049",
+        "date": "2024-04-03",
+        "content": "Vehicle: Volvo XC60, registration MH09AB1282. Warranty agreement WAR-3049: coverage through 2027-04-03 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  },
+  {
+    "registrationNumber": "MH13AB1283",
+    "make": "BYD",
+    "model": "Atto 3",
+    "fuelType": "Electric",
+    "year": 2024,
+    "color": "Silver",
+    "owner": "Riya Shinde",
+    "dealer": "Unifield BYD Sales Solapur",
+    "saleDate": "2024-05-04",
+    "price": 3300000,
+    "warranty": "Warranty agreement WAR-3050: coverage through 2027-05-04 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement.",
+    "documents": [
+      {
+        "name": "Sales invoice",
+        "reference": "INV-2024-1050",
+        "date": "2024-05-04",
+        "content": "Invoice INV-2024-1050 | 2024-05-04\nSeller: Unifield BYD Sales Solapur. Buyer: Riya Shinde.\nVehicle: BYD Atto 3 (Electric), Silver. Registration: MH13AB1283.\nVehicle price: INR 33,00,000.00. Registration charges: INR 85,900.00. Insurance: INR 65,650.00. Accessories: INR 8,500.00. Discount: INR 15,000.00.\nTotal invoice value: INR 34,45,050.00. Payment: Vehicle finance and down payment. Balance due: INR 0.00. Delivery: Solapur, 2024-05-04."
+      },
+      {
+        "name": "Ownership record",
+        "reference": "OWN-2050",
+        "date": "2024-05-04",
+        "content": "Ownership file OWN-2050\nRegistered keeper: Riya Shinde. Registration: MH13AB1283. Vehicle: BYD Atto 3, Electric, model year 2024.\nRegistering office: Solapur (MH13). Purchase and delivery date: 2024-05-04. Selling dealership: Unifield BYD Sales Solapur. Ownership sequence: first owner. Invoice reference: INV-2024-1050."
+      },
+      {
+        "name": "Warranty summary",
+        "reference": "WAR-3050",
+        "date": "2024-05-04",
+        "content": "Vehicle: BYD Atto 3, registration MH13AB1283. Warranty agreement WAR-3050: coverage through 2027-05-04 or 1,00,000 km, whichever occurs first. Covered components and exclusions follow the signed vehicle-specific agreement. Routine wear and scheduled maintenance are excluded unless specified in that agreement."
+      }
+    ]
+  }
+]
